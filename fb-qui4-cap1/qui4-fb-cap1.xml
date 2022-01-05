@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+ <p class="general-text">
+    <titulo_cap_texto>Tipos de reações inorgânicas</titulo_cap_texto>
+    <imagem>
+      <imagem>&lt;F002-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <legenda>A água é tratada para que fique adequada ao consumo humano, passando por diversas reações químicas no processo.</legenda>
+    <p class="img-credit">tuachanwatthana/iStockphoto.com</p>
+    <p class="general-text">A água é o constituinte mais abundante da Terra e o ingrediente essencial da vida. Aproximadamente 70% da superfície terrestre encontram-se cobertos por água. No entanto, menos de 3% do volume da água existente são de água doce, cuja maior parte está concentrada em geleiras polares e neves nas montanhas, restando uma pequena porcentagem de águas superficiais disponíveis para uso no planeta.</p>
+    <p class="general-text">[...]</p>
+    <p class="general-text">A água deve ser tratada para eliminar qualquer tipo de contaminação e para evitar a transmissão de doenças, tornando-a potável. O tratamento da água é importante porque, em função do aumentoda poluição e do aumento da população, que trouxe como consequência o aumento do consumo, há necessidade de remoção de contaminantes para que a água disponível possa ser usada para consumo humano. A remoção desses contaminantes se dá por intermédio de tratamentos específicos. O tratamento consiste em um conjunto de procedimentos físicos e químicos para que a água fique em condições adequadas para ser consumida. [...] </p>
+    <fonte>
+      “Tratamento de água”.
+      <i>Conselho Regional de Química</i>
+      – IV Região, 28 jun. 2011.Disponível em: &lt;www.crq4.org.br/quimicaviva_tratamento_agua&gt;. Acesso em: 30 jul. 2021.
+    </fonte>
+    <texto_bullets>•	O ácido sulfúrico é formado por poluentes que contêm enxofre em uma reação com etapa única?</texto_bullets>
+    <texto_bullets>•	Podemos armazenar uma solução de ácido clorídrico em um recipiente de zinco?</texto_bullets>
+    <boxe_02_texto> Neste capítulo serão abordadas as habilidades EM13CNT104, EM13CNT105, EM13CNT205, EM13CNT206 e EM13CNT302.</boxe_02_texto>
+    <titulo1>	Reações químicas</titulo1>
+   <p class="general-text">Já estudamos os fenômenos físicos e químicos. Um fenômeno físico é uma transformação que não altera a natureza da matéria, por exemplo, as mudanças de estado físico que ocorrem com a água na forma sólida (gelo) até sua evaporação ou, ainda, quando amassamos um papel ou quando adicionamos açúcar para adoçar um suco. Já um fenômeno químico é uma transformação na qual ocorre alteração da natureza da matéria. Podemos observar alguns exemplos nas imagens a seguir. </p>
+    <imagem>
+      <imagem>&lt;F003-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">cegli/iStockphoto.com</p>
+    <imagem>
+      <imagem>&lt;F004-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">anankkml/iStockphoto.com</p>
+    <imagem>
+      <imagem>&lt;F005-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">diego_cervo/iStockphoto.com</p>
+    <legenda></legenda>
+   <p class="general-text">
+      Em uma reação química, temos um rearranjo de átomos, que produzirão moléculas diferentes, maiores ou menores que as originais. As
+      <b>reações químicas</b>
+      são representadas por
+      <b>equações químicas</b>
+      e têm sempre dois membros, denominados
+      <b>reagentes</b>
+      e
+      <b>produtos</b>
+      , sendo cada substância participante representada por sua fórmula química.
+    </p>
+   <p class="general-text">Genericamente, teremos a equação representada por:</p>
+    <imagem>
+      <imagem>&lt;002_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">Já estudamos diversas reações químicas, como as reações de neutralização, que ocorrem entre ácidos e bases, formando sal e água. Vamos relembrar essa reação utilizando o ácido sulfúrico e o hidróxido de potássio:</p>
+    <imagem>
+      <imagem>&lt;003_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">Ocorreu uma reação de neutralização total do ácido com a base, formando um sal neutro. Nesta unidade, vamos aprender que essa reação pode ser classificada também como uma reação de dupla­‑troca, pois duas substâncias compostas (o ácido e a base) reagiram e formaram outras duas substâncias compostas (o sal e a água). Note que a reação está devidamente balanceada com os menores coeficientes inteiros possíveis.</p>
+   <p class="general-text">
+      Junto à fórmula da substância presente na equação, é comum indicarmos o estado físico da substância ou o meio em que se encontra, sendo: (s)
+      <simbolos>=</simbolos>
+      sólido; (
+      <simbolos>L</simbolos>
+      )
+      <simbolos>=</simbolos>
+      líquido; (g)
+      <simbolos>=</simbolos>
+      gasoso; (v)
+      <simbolos>=</simbolos>
+      vapor e (aq)
+      <simbolos>=</simbolos>
+      aquoso; esta última indica que o solvente da solução é a água.
+    </p>
+    <boxe_17>
+      Fique ligado!
+      <boxe_17_texto>
+        Uma equação química pode ser devidamente balanceada utilizando
+        <b>coeficientes em forma de fração ou os menores valores inteiros</b>
+        . Assim, fique atento ao enunciado da questão, pois alguns solicitam que o balanceamento seja feito com os menores coeficientes inteiros.
+      </boxe_17_texto>
+      <boxe_17_texto>Para a reação de queima do magnésio, por exemplo, há duas possibilidades de balanceamento:</boxe_17_texto>
+      <boxe_17_texto>
+        2 Mg(s)
+        <simbolos>1</simbolos>
+        O2
+        <simbolos>ñ</simbolos>
+        2 MgO(s)(coeficientes com os menores valores inteiros)
+      </boxe_17_texto>
+      <boxe_17_texto>
+        Mg(s)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>ñ</simbolos>
+        MgO(s)(coeficientes com fração)
+      </boxe_17_texto>
+    </boxe_17>
+   <p class="general-text">Os nossos sentidos percebem a ocorrência de uma reação química quando notamos:</p>
+    <texto_bullets>•	mudança de cor;</texto_bullets>
+    <texto_bullets>•	formação de precipitado;</texto_bullets>
+    <texto_bullets>•	mudança de temperatura;</texto_bullets>
+    <texto_bullets>•	liberação de gases.</texto_bullets>
+   <p class="general-text">Vamos estudar os tipos de classificação de reações inorgânicas a seguir.</p>
+    <titulo2>Reações de síntese (adição, formação ou combinação)</titulo2>
+   <p class="general-text">
+      Quando dois ou mais reagentes se combinam formando um único produto, temos uma reação chamada de síntese. Outros nomes também usados são: adição, formação ou combinação. Podemos generalizá-las por A
+      <simbolos>1</simbolos>
+      B
+      <simbolos>ñ</simbolos>
+      AB.
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+   <p class="general-text">
+      4 A
+      <simbolos>L</simbolos>
+      (s)
+      <simbolos>1</simbolos>
+      3 O2(g)
+      <simbolos>ñ</simbolos>
+      2 A
+      <simbolos>L</simbolos>
+      2O3(s)
+    </p>
+   <p class="general-text">
+      Mg(s)
+      <simbolos>1</simbolos>
+      O2(g)
+      <simbolos>ñ</simbolos>
+      MgO(s)
+    </p>
+   <p class="general-text">O ácido sulfúrico, por exemplo, presente na chuva ácida é obtido por meio de três reações de síntese. Cada reação representa uma etapa do processo, que inicia com o enxofre, na forma de óxidos, lançado na atmosfera pelos veículos automotores movidos por combustíveis derivados do petróleo. Esses óxidos derivados do enxofre são formados durante a queima dos combustíveis, uma vez que o enxofre está presente como impureza; ao ser queimado (sofrer reação de combustão), o enxofre se transforma em SO2, agravando ainda mais o problema da formação da chuva ácida. Podemos equacionar as reações por etapa e ao final somá-las, obtendo, assim, a equação global, eliminando os compostos intermediários (compostos que aparecem como produto de uma equação e reagente da outra equação):</p>
+   <p class="general-text">
+      <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="4" aid:tcols="8">
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+         <p class="general-text">
+            1
+            <sobrescrito></sobrescrito>
+            <sobrescrito>a</sobrescrito>
+            etapa:
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="34.01574803149607">
+         <p class="general-text">S(s)</p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="18.18897637795262">
+         <p class="general-text">
+            <simbolos>1</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="39.68503937007874">
+         <p class="general-text">
+            O
+            <subscrito>2</subscrito>
+            (g)
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033">
+         <p class="general-text">
+            <simbolos>ñ</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409">
+         <p class="general-text">SO2(g)</p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+         <p class="general-text">
+            2
+            <sobrescrito>a</sobrescrito>
+            etapa:
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="34.01574803149607">
+         <p class="general-text">SO2(g)</p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="18.18897637795262">
+         <p class="general-text">
+            <simbolos>1</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="39.68503937007874">
+         <p class="general-text">
+            O
+            <subscrito>2</subscrito>
+            (g)
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033">
+         <p class="general-text">
+            <simbolos>ñ</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409">
+         <p class="general-text">
+            SO
+            <subscrito>3</subscrito>
+            (g)
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+         <p class="general-text">
+            3
+            <sobrescrito>a</sobrescrito>
+            etapa:
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="34.01574803149607">
+         <p class="general-text">SO3(g)</p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="18.18897637795262">
+         <p class="general-text">
+            <simbolos>1</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="39.68503937007874">
+         <p class="general-text">
+            H
+            <subscrito>2</subscrito>
+            O(
+            <simbolos>L</simbolos>
+            )
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033">
+         <p class="general-text">
+            <simbolos>ñ</simbolos>
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409">
+         <p class="general-text">
+            H
+            <subscrito>2</subscrito>
+            SO
+            <subscrito>4</subscrito>
+            (aq)
+          </p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="17.007874015748033"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.02362204724409"></Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+         <p class="general-text">Equação global:</p>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="7" aid:ccolwidth="227.95275590551165">
+         <p class="general-text">
+            S(s)
+            <simbolos>1</simbolos>
+            O2(g)
+            <simbolos>1</simbolos>
+            H2O(
+            <simbolos>L</simbolos>
+            )
+            <simbolos>ñ </simbolos>
+            H2SO4(aq)
+          </p>
+        </Cell>
+      </Table>
+    </p>
+    <imagem>
+      <imagem>&lt;F006-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <legenda>A queima do magnésio ocorre com emissão de luz.</legenda>
+    <p class="img-credit">Juliana Rovere</p>
+   <p class="general-text">Podemos ainda classificar as reações de síntese em dois tipos:</p>
+    <texto_bullets>
+      <b>•	Síntese total:</b>
+      quando todos os reagentes são substâncias simples.
+    </texto_bullets>
+   <p class="general-text">
+      Exemplo:
+      <imagem>
+        <imagem>&lt;004_FBU6C19A.png&gt;</imagem>
+      </imagem>
+    </p>
+   <p class="general-text">
+      <b></b>
+    </p>
+    <texto_bullets>
+      <b>•	Síntese parcial:</b>
+      quando pelo menos um dos reagentes não é mais uma substância simples.
+    </texto_bullets>
+   <p class="general-text"></p>
+   <p class="general-text">
+      Exemplo:
+      <imagem>
+        <imagem>&lt;005_FBU6C19A.png&gt;</imagem>
+      </imagem>
+    </p>
+    <secao_02>
+      Questão resolvida
+      <exercicio_enunciado>
+        1
+        <b>Unicamp-SP 2017</b>
+        Uma das alternativas para o tratamento de lixo sólido consiste na tecnologia de reciclagem quaternária, em que o lixo sólido não perecível é queimado em usinas específicas. Nessas usinas, os resíduos oriundos da queima são retidos e não são emitidos diretamente para o meio ambiente. Um dos sistemas para retenção da parte gasosa dos resíduos apresenta um filtro que contém uma das seguintes substâncias: Na2CO3, NaOH, CaO ou CaCO3.
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        Considere a seguinte afirmação: essa tecnologia apresenta dupla vantagem porque, além de resolver o problema de ocupação do espaço, também gera energia. Responda, inicialmente, se concorda totalmente, concorda parcialmente ou se discorda totalmente dessa afirmação e, em seguida, justifique sua escolha.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Durante a queima que ocorre no tratamento do lixo, os seguintes gases podem ser liberados: NO2, SO2 e CO2. Escolha um desses gases e indique um filtro adequado para absorvê-lo, dentre as quatro possibilidades apresentas no enunciado. Justifique sua escolha utilizando uma equação química.
+      </item_lista>
+      <titulo3>
+        <b>Resolução:</b>
+      </titulo3>
+      <item_lista>
+        <b>a)</b>
+        Concorda-se parcialmente, pois, como se trata de uma reação exotérmica, haverá geração de energia, que pode ser utilizada em uma termelétrica. No entanto, serão produzidos e retidos resíduos sólidos, e haverá a necessidade de descarte ou reutilização, não resolvendo o problema por completo.
+      </item_lista>
+      <item_lista>
+        <b>b)</b>
+        Os gases liberados durante a queima do lixo são óxidos ácidos, que reagem com substâncias de caráter básico. Dentre as quatro possibilidades apresentadas no enunciado, pode-se escolher como filtro adequado NaOH (base) e CaO (óxido básico). Ao optar pelo gás CO2, uma possível reação pode ser equacionada por CaO(s)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>ñ</simbolos>
+        CaCO3(s), uma reação do tipo síntese.
+      </item_lista>
+    </secao_02>
+    <titulo2>Reações de análise ou decomposição</titulo2>
+   <p class="general-text">
+      Quando um único reagente é decomposto em dois ou mais produtos, temos uma reação chamada de decomposição ou análise. Podemos generalizá-las por AB
+      <simbolos>ñ</simbolos>
+      A
+      <simbolos>1</simbolos>
+      B.
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+   <p class="general-text">
+      2 KC
+      <simbolos>L</simbolos>
+      O3(s)
+      <simbolos>ñ</simbolos>
+      2 KC
+      <simbolos>L</simbolos>
+      (s)
+      <simbolos>1</simbolos>
+      3 O2(g)
+    </p>
+   <p class="general-text">
+      2 AgBr(s)
+      <simbolos>ñ</simbolos>
+      2 Ag(s)
+      <simbolos>1</simbolos>
+      Br2(
+      <simbolos>L</simbolos>
+      )
+    </p>
+   <p class="general-text">Essas reações podem ser de três tipos, de acordo com o fator externo que causou a quebra:</p>
+    <texto_bullets>
+      <b>•	Pirólise:</b>
+      quando se utiliza calor para que haja a decomposição (do grego
+      <i>piro</i>
+      <simbolos>5</simbolos>
+      fogo;
+      <i>lise</i>
+      <simbolos>5</simbolos>
+      quebra). Costuma-se indicar a ação desse fator externo com o símbolo
+      <simbolos>D</simbolos>
+      acima da seta. Nas indústrias, esse tipo de reação é chamado de calcinação.
+    </texto_bullets>
+   <p class="general-text">
+      Exemplo:
+      <imagem>&lt;053_FBU6C19A.png&gt;</imagem>
+    </p>
+    <texto_bullets>
+      <b>•	Eletrólise:</b>
+      quando se utiliza eletricidade para que haja a decomposição. Costuma-se indicar a ação desse fator externo com o símbolo i, que representa a intensidade da corrente elétrica, acima da seta.
+    </texto_bullets>
+   <p class="general-text">
+      Exemplo:
+      <imagem>&lt;006_b_FBU6C19A.png&gt;</imagem>
+    </p>
+    <b></b>
+    <texto_bullets>
+      <b>•	Fotólise:</b>
+      quando se utiliza a luz para que haja a decomposição. Costuma-se indicar a ação desse fator externo com o símbolo
+      <simbolos>l</simbolos>
+      (lê-se “lambda”) acima da seta.
+    </texto_bullets>
+   <p class="general-text">
+      Exemplo:
+      <imagem>&lt;006_c_FBU6C19A.png&gt;</imagem>
+    </p>
+    <boxe_04>
+      Experimento
+      <boxe_04_titulo1>Decomposição da água oxigenada</boxe_04_titulo1>
+      <boxe_04_texto>A catalase, também denominada hidroperoxidase, é uma enzima (proteína que catalisa reações químicas). Ela é encontrada na maioria dos organismos e tem como função decompor o peróxido de hidrogênio (H2O2).</boxe_04_texto>
+      <boxe_04_texto>A polpa da batata é rica em catalase e seu isolamento é rápido e fácil, como veremos a seguir.</boxe_04_texto>
+      <boxe_04_titulo1>
+        Objetivo
+        <b></b>
+      </boxe_04_titulo1>
+      <boxe_04_texto>Analisar a ocorrência de uma reação química, mais precisamente uma reação de decomposição, como também a função dos catalisadores.</boxe_04_texto>
+      <boxe_04_titulo1>Materiais</boxe_04_titulo1>
+      <boxe_bullet>•	1 batata (sem casca);</boxe_bullet>
+      <boxe_bullet>•	1 tubo de ensaio (ou recipiente de vidro transparente);</boxe_bullet>
+      <boxe_bullet>•	água (70 mL);</boxe_bullet>
+      <boxe_bullet>•	água oxigenada (10 mL); </boxe_bullet>
+      <boxe_bullet>•	funil;</boxe_bullet>
+      <boxe_bullet>•	liquidificador.</boxe_bullet>
+      <boxe_04_titulo1>Procedimento experimental</boxe_04_titulo1>
+      <boxe_bullet>•	Triture a batata no liquidificador com 35 mL de água para facilitar o processo.</boxe_bullet>
+      <boxe_bullet>•	Filtre a mistura e reserve o filtrado (solução límpida).</boxe_bullet>
+      <boxe_bullet>•	Despeje 3 mL da solução obtida em um tubo de ensaio contendo 5 mL de água oxigenada e observe.</boxe_bullet>
+      <boxe_bullet>
+        •	Repita a etapa anterior com o tubo de ensaio mergulhado em água quente (50
+        <simbolos>°</simbolos>
+        C).
+      </boxe_bullet>
+      <secao_exercicio_numerador></secao_exercicio_numerador>
+      <exercicio_enunciado>
+        1	O que você observou após despejar a solução obtida em água oxigenada?
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        Qual a reação de decomposição da água oxigenada?
+      </exercicio_enunciado>
+      <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+      Por que a reação ocorreu instantaneamente?
+      <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+      O que você observou após despejar a solução obtida em água oxigenada aquecida a 50
+      <simbolos>°</simbolos>
+      C?
+    </boxe_04>
+    <titulo2>Reações de simples troca (deslocamento, substituição)</titulo2>
+   <p class="general-text">
+      Quando há uma substância simples e uma substância composta nos reagentes e ocorre uma reação formando outra substância simples e outra composta nos produtos, temos uma reação chamada de simples troca, também denominada deslocamento ou, ainda, substituição. Podemos generalizá-las por
+      <imagem>006_FBU6C19A.png&gt;</imagem>
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+    <imagem>&lt;007_FBU6C19A.png&gt;</imagem>
+    <imagem>&lt;008_FBU6C19A.png&gt;</imagem>
+   <p class="general-text">Para que a reação de simples troca ocorra, a substância simples deve ser mais reativa do que o elemento químico que ela quer deslocar (substituir) presente na substância composta. A reatividade é a capacidade que um elemento químico tem de deslocar outro em uma reação de deslocamento. Assim, para descobrir quais serão os produtos formados devemos observar se a substância simples é um metal ou um ametal; um membro de uma fila nunca deslocará um membro de outra fila. Vamos analisar cada caso.</p>
+    <imagem>&lt;F011-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    <legenda>Sódio metálico em água forma hidróxido de sódio e gás hidrogênio, sendo que este último, em contato com o oxigênio do ar, entra em combustão, o que é evidenciado pela forte luminosidade e pelo aumento da temperatura do sistema.</legenda>
+    <p class="img-credit">Albert Russ/Shutterstock.com</p>
+    <titulo3>Reações de deslocamento envolvendo metais</titulo3>
+   <p class="general-text">Para metais, a reatividade se baseia na fila de eletropositividade, como apresentado a seguir.</p>
+    <imagem>
+      <imagem>&lt;008_b_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text"></p>
+   <p class="general-text">
+      Analisando a fila, podemos concluir que o ouro (Au) é o metal de
+      <b>menor reatividade</b>
+      , logo, apresenta a
+      <b>maior nobreza</b>
+      . A reatividade é o oposto da nobreza.
+    </p>
+   <p class="general-text">Generalizando esse tipo de reação, o metal (substância simples, representado por A) tenderá sempre a deslocar outro metal (representado por B na substância composta) ou o hidrogênio – que aparece na fila de reatividade dos metais e dos ametais.</p>
+   <p class="general-text">Logo, nesse tipo de reação, teremos:</p>
+   <p class="general-text">
+      <b>metal 1 </b>
+      <simbolos>1</simbolos>
+      <b> sal 1 </b>
+      <simbolos>ñ</simbolos>
+      <b> metal 2 </b>
+      <simbolos>1</simbolos>
+      <b> sal 2</b>
+    </p>
+   <p class="general-text">
+      <b>metal </b>
+      <simbolos>1</simbolos>
+      <b> ácido </b>
+      <simbolos>ñ</simbolos>
+      <b> H</b>
+      2
+      <b></b>
+      <simbolos>1</simbolos>
+      <b> sal</b>
+    </p>
+   <p class="general-text">Vamos analisar algumas equações:</p>
+   <p class="general-text">
+      <b>I.</b>
+      <imagem>&lt;010_FBU6C19A.png&gt;</imagem>
+    </p>
+   <p class="general-text">A reação ocorre, pois o zinco (Zn) é mais reativo que o cobre (Cu) e, por isso, consegue deslocá-lo.</p>
+   <p class="general-text">
+      <b>II.</b>
+      <imagem>&lt;010_FBU6C19A.png&gt;</imagem>
+    </p>
+   <p class="general-text">A reação não ocorre, pois o cobre é menos reativo que o zinco.</p>
+   <p class="general-text">
+      Reações químicas que envolvem íons em solução aquosa são comumente representadas por sua
+      <b>equação iônica</b>
+      . Vamos analisar esse tipo de reação utilizando novamente zinco metálico e a solução de sulfato de cobre(II).
+    </p>
+    <imagem>&lt;I001-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+   <p class="general-text">
+      O zinco metálico (Zn) presente na placa é mais reativo que o cobre presente na solução do béquer I. Assim, ocorre uma reação de deslocamento, levando ao descoramento da solução, que adquire agora uma cor azul mais suave, e ao depósito de cobre na placa, representado no béquer II. Note que os íons SO4
+      <sobrescrito>2</sobrescrito>
+      2 não participam, de fato, da reação e são considerados
+      <b> íons espectadores</b>
+      , não havendo assim a necessidade de colocá-los na equação química.
+    </p>
+    <imagem>
+      <imagem>&lt;012_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">Na equação iônica, aparecem os participantes da reação que, de fato, estão envolvidos no processo.</p>
+    <secao_02>
+      Questão resolvida
+      <exercicio_enunciado>
+        1
+        <b>Unicamp-SP 2017</b>
+        Uma das alternativas para o tratamento de lixo sólido consiste na tecnologia de reciclagem quaternária, em que o lixo sólido não perecível é queimado em usinas específicas. Nessas usinas, os resíduos oriundos da queima são retidos e não são emitidos diretamente para o meio ambiente. Um dos sistemas para retenção da parte gasosa dos resíduos apresenta um filtro que contém uma das seguintes substâncias: Na2CO3, NaOH, CaO ou CaCO3.
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        Considere a seguinte afirmação: essa tecnologia apresenta dupla vantagem porque, além de resolver o problema de ocupação do espaço, também gera energia. Responda, inicialmente, se concorda totalmente, concorda parcialmente ou se discorda totalmente dessa afirmação e, em seguida, justifique sua escolha.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Durante a queima que ocorre no tratamento do lixo, os seguintes gases podem ser liberados: NO2, SO2 e CO2. Escolha um desses gases e indique um filtro adequado para absorvê-lo, dentre as quatro possibilidades apresentas no enunciado. Justifique sua escolha utilizando uma equação química.
+      </item_lista>
+      <titulo3>
+        <b>Resolução:</b>
+      </titulo3>
+      <exercicio_resolvido>
+        <b>a)</b>
+        Concorda-se parcialmente, pois, como se trata de uma reação exotérmica, haverá geração de energia, que pode ser utilizada em uma termelétrica. No entanto, serão produzidos e retidos resíduos sólidos, e haverá a necessidade de descarte ou reutilização, não resolvendo o problema por completo.
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>b)</b>
+        Os gases liberados durante a queima do lixo são óxidos ácidos, que reagem com substâncias de caráter básico. Dentre as quatro possibilidades apresentadas no enunciado, pode-se escolher como filtro adequado NaOH (base) e CaO (óxido básico). Ao optar pelo gás CO2, uma possível reação pode ser equacionada por CaO(s)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>ñ</simbolos>
+        CaCO3(s), uma reação do tipo síntese.
+      </exercicio_resolvido>
+      <exercicio_enunciado>2	Em uma aula no laboratório de química, um estudante colocou um fio de cobre em uma solução de nitrato de prata (situação A) e, após alguns minutos, observou a formação de prata metálica ao redor do fio de cobre (situação B), além da mudança na coloração da solução para um tom azulado</exercicio_enunciado>
+      <exercicio_enunciado></exercicio_enunciado>
+      <imagem>
+        <imagem>&lt;F012-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+      </imagem>
+      <p class="img-credit">Turtle Rock Scientific/</p>
+      <p class="img-credit">Science Source/Fotoarena</p>
+      <exercicio_enunciado>
+        <b>a)	</b>
+        Escreva a equação química devidamente balanceada ocorrida no experimento do estudante.
+      </exercicio_enunciado>
+      <item_lista></item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Classifique essa reação de acordo com o seu tipo e explique a mudança de coloração observada na solução.
+      </item_lista>
+      <titulo3>
+        <b>Resolução:</b>
+      </titulo3>
+      <exercicio_resolvido>
+        <b>a)</b>
+        Cu(s)
+        <simbolos>1</simbolos>
+        2 AgNO3(aq)
+        <simbolos>ñ</simbolos>
+        2 Ag(s)
+        <simbolos>1</simbolos>
+        Cu(NO3)2(aq)
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>b)</b>
+        É uma reação de deslocamento, pois uma substância simples reagiu com uma substância composta e formou outras duas substâncias, sendo uma simples e a outra composta. Houve mudança na coloração da solução, pois o cobre presente no fio foi deslocado para a solução, formando nitrato de cobre, de coloração azul.
+      </exercicio_resolvido>
+    </secao_02>
+    <titulo3>Reações de deslocamento envolvendo ametais</titulo3>
+   <p class="general-text">Para ametais, a reatividade se baseia na fila de eletronegatividade, a seguir discriminada:</p>
+    <imagem>
+      <imagem>&lt;012_b_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">
+      Analisando a fila, podemos concluir que o flúor (F) é o ametal de
+      <b>maior reatividade</b>
+      , logo, apresenta a
+      <b>maior eletronegatividade</b>
+      .
+    </p>
+   <p class="general-text">Generalizando esse tipo de reação, o ametal (substância simples, representado por A) tenderá sempre a deslocar outro ametal (representado por C na substância composta) ou o hidrogênio – que aparece na fila de reatividade dos metais e dos ametais.</p>
+   <p class="general-text">Logo, nesse tipo de reação, teremos:</p>
+   <p class="general-text">
+      <b>ametal 1 </b>
+      <simbolos>1</simbolos>
+      <b> sal 1 </b>
+      <simbolos>ñ</simbolos>
+      <b> ametal 2 </b>
+      <simbolos>1</simbolos>
+      <b> sal 2</b>
+    </p>
+   <p class="general-text">Vamos analisar algumas equações:</p>
+   <p class="general-text">
+      <b>I.</b>
+      <imagem>&lt;014_FBU6C19A.png&gt;</imagem>
+    </p>
+   <p class="general-text">A reação ocorre, pois o bromo (Br) é mais reativo que o iodo (I), deslocando-o.</p>
+   <p class="general-text">
+      <b>II.</b>
+      <imagem>&lt;015_FBU6C19A.png&gt;</imagem>
+    </p>
+   <p class="general-text">A reação não ocorre, pois o iodo é menos reativo que o bromo.</p>
+   <p class="general-text">Nessas reações de deslocamento por ametais, quando se forma o gás cloro, este apresenta cor amarela-esverdeada; quando temos a formação do bromo, este é um líquido castanho; e, quando temos a formação de iodo, este é um sólido acinzentado. Quando esses ametais são dissolvidos em tetracloreto de carbono ou benzeno, os produtos gerados apresentam coloração amarela, castanha e violeta, respectivamente.</p>
+    <titulo2>Reações de dupla-troca (ou dupla substituição)</titulo2>
+   <p class="general-text">Quando duas substâncias compostas reagem formando duas outras substâncias compostas nos produtos, temos uma reação de dupla-troca ou dupla substituição. </p>
+   <p class="general-text">
+      Podemos generalizá-las por AB
+      <simbolos>1</simbolos>
+      CD
+      <simbolos>ñ</simbolos>
+      AD
+      <simbolos>1</simbolos>
+      CB.
+    </p>
+   <p class="general-text">O cátion de uma substância composta interage com o cátion da outra substância composta e vice-versa. Nesse tipo de reação, podemos encontrar como reagentes:</p>
+   <p class="general-text">
+      <b>ácido </b>
+      <simbolos>1</simbolos>
+      <b> base </b>
+      <simbolos>ñ</simbolos>
+      <b> sal </b>
+      <simbolos>1</simbolos>
+      <b> água</b>
+    </p>
+   <p class="general-text">
+      <b>ácido 1 </b>
+      <simbolos>1</simbolos>
+      <b> sal 1</b>
+      <simbolos>ñ</simbolos>
+      <b>ácido 2 </b>
+      <simbolos>1</simbolos>
+      <b> sal 2</b>
+    </p>
+   <p class="general-text">
+      <b>base 1 </b>
+      <simbolos>1</simbolos>
+      <b> sal 1 </b>
+      <simbolos>ñ</simbolos>
+      <b> base 2 </b>
+      <simbolos>1</simbolos>
+      <b> sal 2</b>
+    </p>
+   <p class="general-text">
+      <b>sal 1 </b>
+      <simbolos>1</simbolos>
+      <b> sal 2 </b>
+      <simbolos>ñ</simbolos>
+      <b> sal 3 </b>
+      <simbolos>1</simbolos>
+      <b> sal 4</b>
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+    <imagem>
+      <imagem>&lt;017_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">Existem critérios a serem cumpridos para que a reação de dupla-troca ocorra, assim como estudamos nas reações de deslocamento. Deve-se cumprir ao menos um dos critérios: formação de um precipitado; formação de um composto menos ionizado; formação de uma substância volátil.Vamos analisar cada um deles a seguir.</p>
+    <titulo3>Formação de precipitado</titulo3>
+   <p class="general-text">Um precipitado é uma substância insolúvel.</p>
+    <imagem>
+      <imagem>&lt;F013-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">Turtle Rock Scientific/Science Source/Fotoarena</p>
+    <imagem>
+      <imagem>&lt;018_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;018_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;F016-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">Andrew Lambert Photography/Science Photo Library/Fotoarena</p>
+    <imagem>
+      <imagem>&lt;019_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;019_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;F014-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">Turtle Rock Scientific/Science Source/Fotoarena</p>
+    <imagem>
+      <imagem>&lt;020_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;020_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;F015-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+    </imagem>
+    <p class="img-credit">Science Photo Library/Fotoarena</p>
+    <imagem>
+      <imagem>&lt;021_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <imagem>
+      <imagem>&lt;021_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">
+      As
+      <b>bases</b>
+      formadas por metais da família IA e pelo íon amônio (NH41) são solúveis; as formadas pelos metais da família IIA são parcialmente solúveis (exceto Be e Mg, insolúveis, assim como as bases formadas por todos os demais metais).
+    </p>
+   <p class="general-text">A solubilidade dos sais está descrita na tabela a seguir:</p>
+    <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="13" aid:tcols="3">
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="3" aid:ccolwidth="226.77165354330708">
+        <Tabela_gravata1>Solubilidade dos sais em água (a 25 °C)</Tabela_gravata1>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">Íons</Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">Regra geral</Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">Exceções</Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Nitratos (NO32)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>–</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Acetatos (CH3COO2)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>–</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Alcalinos (Família IA)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>–</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Amônio (NH41)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>–</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Cloretos (C
+          <simbolos>L</simbolos>
+          2)
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Ag1, Hg2
+          <sobrescrito>2</sobrescrito>
+          1, Pb
+          <sobrescrito>2</sobrescrito>
+          1
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Brometos (Br2)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Ag1, Hg2
+          <sobrescrito>2</sobrescrito>
+          1, Pb
+          <sobrescrito>2</sobrescrito>
+          1
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>Iodetos (I2)</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Ag1, Hg2
+          <sobrescrito>2</sobrescrito>
+          1, Pb
+          <sobrescrito>2</sobrescrito>
+          1
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Sulfatos (SO4
+          <sobrescrito>2</sobrescrito>
+          2)
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Solúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Ca
+          <sobrescrito>2</sobrescrito>
+          1, Sr
+          <sobrescrito>2</sobrescrito>
+          1, Ba
+          <sobrescrito>2</sobrescrito>
+          1, Pb
+          <sobrescrito>2</sobrescrito>
+          1
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Sulfetos (S
+          <sobrescrito>2</sobrescrito>
+          2)
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Insolúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>IA, IIA, NH41</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Fosfatos (PO4
+          <sobrescrito>3</sobrescrito>
+          2)
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Insolúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>IA, NH41</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>
+          Carbonatos (CO3
+          <sobrescrito>2</sobrescrito>
+          2)
+        </tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+        <tabela_texto_geral>Insolúveis</tabela_texto_geral>
+      </Cell>
+      <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+        <tabela_texto_geral>IA, NH41</tabela_texto_geral>
+      </Cell>
+    </Table>
+   <p class="general-text">Observe alguns exemplos:</p>
+   <p class="general-text">
+      <b>I.</b>
+      <imagem>
+        <imagem>&lt;022_FBU6C19A.png&gt;</imagem>
+      </imagem>
+    </p>
+   <p class="general-text">
+      A reação ocorre, pois formou-se um precipitado de cloreto de prata (AgC
+      <simbolos>Lô</simbolos>
+      ), o qual pode ser representado por uma seta apontada para baixo, ao lado da fórmula.
+    </p>
+   <p class="general-text">
+      <b>II.</b>
+    </p>
+    <imagem>
+      <imagem>&lt;023_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">A reação não ocorre, pois os dois produtos são substâncias solúveis, ou seja, não há formação de precipitado.</p>
+    <titulo3>Formação de um composto menos ionizado</titulo3>
+   <p class="general-text">A formação de um composto menos ionizado ocorre quando formamos um ácido mais fraco do que o ácido presente no reagente da equação (início da reação); ou quando formamos uma base mais fraca do que a base presente no reagente da equação; ou, ainda, quando comparamos funções inorgânicas diferentes em que um dos produtos é menos ionizável (como a água, presente nas reações de neutralização).</p>
+   <p class="general-text">
+      Recordando a força das
+      <b>bases</b>
+      : as formadas por metais alcalinos e alcalino-terrosos são fortes; as demais são fracas.
+    </p>
+    <boxe_17>
+      Fique ligado!
+      <boxe_17_texto>
+        A regra da força de oxiácidos funciona para os hidrogênios ionizáveis (H1) presentes no ácido, e não para todos os hidrogênios, uma vez que
+        <b>a força de um ácido é medida pelo seu grau de ionização.</b>
+      </boxe_17_texto>
+    </boxe_17>
+   <p class="general-text">
+      Para analisar a força dos
+      <b>ácidos</b>
+      , quando hidrácidos, temos:
+    </p>
+   <p class="general-text">
+      <b>Fortes: </b>
+      HC
+      <simbolos>L</simbolos>
+      , HBr, HI.
+    </p>
+   <p class="general-text">
+      <b>Moderado ou semiforte: </b>
+      HF.
+    </p>
+   <p class="general-text">
+      <b>Fracos: </b>
+      os
+      <b></b>
+      demais hidrácidos.
+    </p>
+   <p class="general-text">
+      Para analisar a força dos
+      <b>ácidos</b>
+      , quando oxiácidos, devemos calcular a variável
+      <i>x</i>
+      como sugere o esquema a seguir.
+    </p>
+   <p class="general-text">
+     <p class="general-text">
+        <i>x</i>
+        <simbolos>5</simbolos>
+        número de O – número de H
+        <simbolos>1</simbolos>
+      </p>
+    </p>
+   <p class="general-text">
+      <b>sendo</b>
+    </p>
+   <p class="general-text">
+      <i>x</i>
+      <simbolos>5</simbolos>
+      3	muito forte
+    </p>
+   <p class="general-text">
+      <i>x</i>
+      <simbolos>5</simbolos>
+      2	forte
+    </p>
+   <p class="general-text">
+      <i>x</i>
+      <simbolos>5</simbolos>
+      1	semiforte ou
+    </p>
+   <p class="general-text">	moderado</p>
+   <p class="general-text">
+      <i>x</i>
+      <simbolos>5</simbolos>
+      0	fraco
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+    <exercicio_item_romano>
+      <b>I.  </b>
+    </exercicio_item_romano>
+   <p class="general-text">
+      <imagem></imagem>
+    </p>
+   <p class="general-text">A reação ocorre, pois formou-se um ácido fraco, que por ser instável poderia ser escrito indicando os produtos da sua decomposição: H2O e CO2.</p>
+    <exercicio_item_romano>
+      <b>II.</b>
+      <imagem>&lt;025_FBU6C19A.png&gt;</imagem>
+    </exercicio_item_romano>
+   <p class="general-text">
+      <imagem></imagem>
+    </p>
+   <p class="general-text">A reação não ocorre, pois o ácido formado no produto não é menos ionizável que o ácido presente no reagente; ambos são fortes.</p>
+    <titulo3>Formação de uma substância volátil ou instável (que se decompõe e forma um gás)</titulo3>
+   <p class="general-text">A formação de uma substância volátil (que evapora a baixas temperaturas) ou instável também é um fator que evidencia reações de dupla-troca.</p>
+   <p class="general-text">
+      <b>São ácidos</b>
+      voláteis: HF, HC
+      <simbolos>L</simbolos>
+      , HI, HCN, H2S, CH3COOH, HNO3.
+    </p>
+   <p class="general-text">
+      A única
+      <b>base</b>
+      volátil é o hidróxido de amônio (NH4OH), pois ele se decompõe em NH3 e H2O.
+    </p>
+   <p class="general-text">
+      Todos os
+      <b>sais</b>
+      são fixos, pois realizam ligação iônica e seus cátions e ânions ficam organizados na forma de um retículo cristalino. Essa organização fixa eleva a temperatura de ebulição e, por isso, necessitaria de altas temperaturas para volatizar.
+    </p>
+    <boxe_17>
+      Fique ligado!
+      <boxe_17_texto>
+        Reações de neutralização sempre ocorrerão, uma vez que se
+        <b>forma água como produto</b>
+        , um composto molecular, menos ionizável que os reagentes da equação:
+      </boxe_17_texto>
+    </boxe_17>
+    <imagem>
+      <imagem>&lt;026_FBU6C19A.png&gt;</imagem>
+    </imagem>
+   <p class="general-text">
+      Alguns compostos formados nas reações são instáveis e se decompõem formando gases, que podem ser representados com uma seta apontando para cima (
+      <simbolos>ò</simbolos>
+      ). Vamos dar destaque a três deles:
+    </p>
+   <p class="general-text"></p>
+   <p class="general-text">
+      NH4OH(aq)
+      <simbolos>&#10141;</simbolos>
+      NH3(g)
+      <simbolos>&#8593;</simbolos>
+      <simbolos>1</simbolos>
+      H2O(
+      <simbolos>L</simbolos>
+      )
+    </p>
+   <p class="general-text">
+      H2CO3(aq)
+      <simbolos>&#10141;</simbolos>
+      CO2(g)
+      <simbolos>&#8593;</simbolos>
+      <simbolos>+</simbolos>
+      H2O(
+      <simbolos>&#8467;</simbolos>
+      )
+    </p>
+   <p class="general-text">
+      H2SO3(aq)
+      <simbolos>&#10141;</simbolos>
+      SO2(g)
+      <simbolos>&#8593;</simbolos>
+      <simbolos>+</simbolos>
+      H2O(
+      <simbolos>&#8467;</simbolos>
+      )
+    </p>
+   <p class="general-text">Observe alguns exemplos:</p>
+    <exercicio_item_romano>
+     <p class="general-text">
+        <b>I.</b>
+        <imagem>
+          <imagem>&lt;031_FBU6C19A.png&gt;</imagem>
+        </imagem>
+      </p>
+      <imagem>&lt;031_FBU6C19A.png&gt;</imagem>
+      <simbolos>ò</simbolos>
+    </exercicio_item_romano>
+   <p class="general-text"></p>
+   <p class="general-text">A reação ocorre, pois formou-se um ácido instável, a qual se decompõe em H2O e CO2, sendo esta última uma substância volátil.</p>
+    <exercicio_item_romano>
+     <p class="general-text">
+        <b>II.</b>
+        <imagem>
+          <imagem>&lt;033_FBU6C19A.png&gt;</imagem>
+        </imagem>
+      </p>
+      <imagem>&lt;033_FBU6C19A.png&gt;</imagem>
+      <simbolos>ò</simbolos>
+    </exercicio_item_romano>
+   <p class="general-text"></p>
+   <p class="general-text">A reação ocorre, pois formou-se um sal insolúvel e uma base instável, a qual se decompõe em H2O e NH3, sendo esta última uma substância volátil.</p>
+   <p class="general-text"></p>
+    <exercicio_item_romano>
+      <b>III.</b>
+      <imagem>&lt;035_FBU6C19A.png&gt;</imagem>
+    </exercicio_item_romano>
+   <p class="general-text"></p>
+   <p class="general-text">Essa reação ocorre nas estações de tratamento de água (ETA). A floculação de partículas sólidas em suspensão é uma etapa primordial no processo de obtenção de água potável e tem como princípio básico a formação de aglomerados, representados pelo precipitado de sulfato de cálcio (CaSO4). Este faz as impurezas se juntarem aos flocos formados, facilitando sua remoção. Em algumas ETA utiliza-se cloreto de ferro(III) no lugar do sulfato de alumínio, que atua da mesma maneira, pois também forma um precipitado:</p>
+    <imagem>&lt;036_FBU6C19A.png&gt;</imagem>
+    <titulo3>Reações de combustão</titulo3>
+   <p class="general-text">Quando uma substância inflamável denominada “combustível” entra em contato com o oxigênio (comburente), ocorre o que chamamos de reação de combustão. Essas reações emitem luz e liberam calor, sendo classificadas como exotérmicas.</p>
+   <p class="general-text">
+      Três fatores são necessários para iniciar uma combustão: combustível, comburente (reage com o combustível) e calor (energia de ativação). Isso é conhecido como
+      <b>triângulo</b>
+      <b>do</b>
+      <b>fogo</b>
+      .
+    </p>
+    <imagem>&lt;I002-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+   <p class="general-text">Três métodos de extinção de incêndios são estabelecidos a partir do rompimento do triângulo do fogo: isolamento, abafamento e resfriamento. Os agentes extintores mais comuns são água, dióxido de carbono e bicarbonato de sódio. A água pressurizada troca calor com o meio e age, principalmente, no resfriamento. O dióxido de carbono pressurizado, por não ser tóxico ou inflamável, age no abafamento impedindo o contato do comburente (oxigênio) com o combustível. O bicarbonato de sódio sofre reação de decomposição, em altas temperaturas, gerando gás carbônico e água:</p>
+    <imagem>&lt;037_FBU6C19A.png&gt;</imagem>
+   <p class="general-text">Quando o combustível é um produto orgânico, ele contém carbono e hidrogênio em sua estrutura e, em alguns casos, oxigênio; um combustível pode sofrer combustão completa ou incompleta, por falta de oxigênio suficiente para sua conversão em gás carbônico e água.</p>
+    <imagem>&lt;I003-2020-EM-QUI-1S-L2-FB-U6-C19.png&gt;</imagem>
+   <p class="general-text">Vamos analisar as reações de combustão do metano:</p>
+    <boxe_03>
+      <boxe_03_titulo1>
+        Discussão em sala
+        <b_italico></b_italico>
+      </boxe_03_titulo1>
+      <boxe_03_titulo1>Mudanças climáticas</boxe_03_titulo1>
+      <boxe_03_texto>Ações humanas, como a queima de combustíveis fósseis e o desmatamento, têm gerado impactos no ambiente, intensificando o efeito estufa, levando a desequilíbrios ambientais. O dióxido de carbono é um dos maiores vilões desse agravamento. Discuta com seus colegas quais são as principais consequências das mudanças climáticas observadas.</boxe_03_texto>
+    </boxe_03>
+    <imagem>&lt;038_FBU6C19A.png&gt;</imagem>
+   <p class="general-text">Generalizando o balanceamento, teremos:</p>
+    <imagem></imagem>
+    <boxe_02>
+      <boxe_02_titulo1>MAIS</boxe_02_titulo1>
+      <boxe_02_titulo2>Água de reúso: solução inteligente que poupa água potável.</boxe_02_titulo2>
+      <boxe_02_texto>O vídeo no canal da Sabesp mostra uma das possíveis aplicações para a água de reúso.</boxe_02_texto>
+      <boxe_02_texto>Disponível em: &lt;https://www.youtube.com/watch?v=8Dga4PvzOpM&gt;. Acesso em: 30 jul. 2021.</boxe_02_texto>
+    </boxe_02>
+   <p class="general-text">Ainda temos outras espécies que podem sofrer reações de combustão, porém não geram os produtos apresentados. Veja alguns exemplos:</p>
+    <imagem>
+      <imagem>&lt;039_FBU6C19A.png&gt;</imagem>
+    </imagem>
+    <secao_15>
+      <secao_15_titulo1>Aplicando conhecimentos</secao_15_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        Classifique as reações representadas a  seguir:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        3 Ca(OH)2(aq)
+        <simbolos>1 </simbolos>
+        2 FeC
+        <simbolos>L</simbolos>
+        3(aq)
+        <simbolos>ñ</simbolos>
+        <simbolos>ñ </simbolos>
+        3 CaC
+        <simbolos>L</simbolos>
+        2(aq)
+        <simbolos>1 </simbolos>
+        2 Fe(OH)3(s)
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Cu(OH)2(s)
+        <simbolos>ñ</simbolos>
+        CuO(s)
+        <simbolos>1</simbolos>
+        H2O(
+        <simbolos>L</simbolos>
+        )
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        NH3(g)
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L</simbolos>
+        (aq)
+        <simbolos>ñ</simbolos>
+        NH4C
+        <simbolos>L</simbolos>
+        (aq)
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Zn(s)
+        <simbolos>1</simbolos>
+        2 AgNO3(aq)
+        <simbolos>ñ</simbolos>
+        Ag(s)
+        <simbolos>1</simbolos>
+        Zn(NO3)2(aq)
+      </item_lista>
+      <secao_exercicio_item></secao_exercicio_item>
+      <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+      Faça o balanceamento das equações a seguir:
+      <secao_exercicio_item>
+        <b>a)	</b>
+        A
+        <simbolos>L</simbolos>
+        (OH)3(s)
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L</simbolos>
+        (aq)
+        <simbolos>ñ</simbolos>
+        H2O(
+        <simbolos>L</simbolos>
+        )
+        <simbolos>1</simbolos>
+        A
+        <simbolos>L</simbolos>
+        C
+        <simbolos>L</simbolos>
+        3(aq)
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>b)	</b>
+        Ca(OH)2(aq)
+        <simbolos>1</simbolos>
+        A
+        <simbolos>L</simbolos>
+        2(SO4)3(aq)
+        <simbolos>ññ </simbolos>
+        A
+        <simbolos>L</simbolos>
+        (OH)3(s)
+        <simbolos>1 </simbolos>
+        CaSO4(aq)
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>c)	</b>
+        C4H9OH(
+        <simbolos>L</simbolos>
+        )
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>ñ</simbolos>
+        CO2(g)
+        <simbolos>1</simbolos>
+        H2O(
+        <simbolos>L</simbolos>
+        )
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>d)	</b>
+        NaHCO3(s)  H2O(g)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>1</simbolos>
+        Na2CO3(s)
+      </secao_exercicio_item>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        Utilizando a fila de reatividade, complete as equações que realmente ocorrem:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        Zn
+        <simbolos>1</simbolos>
+        NiSO4
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Ni
+        <simbolos>1</simbolos>
+        CuSO4
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        A
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        AgNO3
+        <simbolos></simbolos>
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Ag
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L </simbolos>
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Cu
+        <simbolos>1</simbolos>
+        NiC
+        <simbolos>L</simbolos>
+        2
+        <simbolos></simbolos>
+      </item_lista>
+      <item_lista>
+        <b>f)	</b>
+        Zn
+        <simbolos>1</simbolos>
+        CuSO4
+      </item_lista>
+      <item_lista>
+        <b>g)	</b>
+        Cu
+        <simbolos>1</simbolos>
+        AgNO3
+      </item_lista>
+      <item_lista>
+        <b>h)	</b>
+        Zn
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L</simbolos>
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        Complete as equações a seguir com a fórmula e o nome das substâncias representadas genericamente por X, Y e Z. Classifique-as quanto ao tipo.
+      </exercicio_enunciado>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        H2SO4(aq)
+        <simbolos>1</simbolos>
+        CaCO3(s)
+        <simbolos>ñ</simbolos>
+        X(s)
+        <simbolos>1</simbolos>
+        H2CO3(aq)
+        <b>II.	</b>
+        2 Mg(s)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>ñ</simbolos>
+        Y(s)
+        <b>III.	</b>
+        H2CO3(aq)
+        <simbolos>ñ</simbolos>
+        Z(g)
+        <simbolos>1</simbolos>
+        H2O(
+        <simbolos>L</simbolos>
+        )
+      </exercicio_item_romano>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        <b>UFSM-RS </b>
+        Os portugueses tiveram grande influência em nossa cultura e hábitos alimentares. Foram eles que trouxeram o pão, produzido à base de cereais, como o trigo, a aveia e a cevada.
+      </exercicio_enunciado>
+      <secao_02_texto_citado></secao_02_texto_citado>
+      <fonte>
+        Fonte: UNIVERSIDADE FEDERAL DE BRASILIA.
+        <i>A contribuição dos portugueses</i>
+        . ATAN/DAB/SPS/MS.
+      </fonte>
+      <secao_exercicio>Para fazer a massa de pães e bolos aumentar de volume, é comum o uso de algumas substâncias químicas:</secao_exercicio>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        O bromato de potássio era comumente utilizado no preparo do pão francês; no entanto, nos dias atuais, essa substância está proibida mesmo em pequenas quantidades. O bromato de potássio era utilizado para proporcionar um aumento de volume no produto final devido à formação de O2, conforme a reação 2 KBrO3(s)  2 KBr(s)
+        <simbolos>1</simbolos>
+        3 O2(g).
+        <b>II.	</b>
+        A adição de fermentos, como o bicarbonato de sódio no preparo de bolos, é utilizada desde a antiguidade até os dias atuais e resulta no crescimento da massa e na maciez do bolo. O bicarbonato de sódio, devido à liberação de gás carbônico, é utilizado para expandir a massa e deixá-la fofa, conforme a reação 2 NaHCO3(s)  Na2CO3(s)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>1</simbolos>
+        H2O(
+        <simbolos>L</simbolos>
+        ).
+      </exercicio_item_romano>
+      <secao_exercicio>Sobre essas reações, é correto afirmar que:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        a primeira é de síntese e a segunda é de deslocamento.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        a primeira é de decomposição e a segunda é de deslocamento.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        a primeira é de síntese e a segunda é de decomposição.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        as duas são de decomposição.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        as duas são de síntese, pois formam O2 e CO2 respectivamente.
+      </item_lista>
+    </secao_15>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        <b>UTFPR 2018</b>
+        Grande parte dos produtos químicos industriais com os quais tomamos contato diário tem o ácido sulfúrico envolvido, direta ou indiretamente, em sua fabricação: detergentes, plásticos, tintas, corantes, fibras têxteis, fertilizantes, baterias de automóveis etc. Trata-se do composto químico de maior importância para a indústria, podendo seu consumo anual ser usado como indicador do grau de desenvolvimento da indústria química de um país.Industrialmente, esse ácido pode ser obtido a partir da pirita de ferro, que consiste basicamente em sulfeto ferroso (FeS), de acordo com as reações:
+      </exercicio_enunciado>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio>
+        FeS
+        <simbolos>1</simbolos>
+        O2
+        <simbolos>ñ</simbolos>
+        Fe
+        <simbolos>1</simbolos>
+        SO2
+      </secao_exercicio>
+      <secao_exercicio>
+        SO2
+        <simbolos>1</simbolos>
+        O2
+        <simbolos>ñ</simbolos>
+        SO3
+      </secao_exercicio>
+      <secao_exercicio>
+        SO3
+        <simbolos>1</simbolos>
+        H2O
+        <simbolos>ñ</simbolos>
+        H2SO4
+      </secao_exercicio>
+      <secao_exercicio>Assinale a alternativa que apresenta a classificação correta dessas reações.</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Dupla-troca, análise, análise.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Dupla-troca, síntese, síntese.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Deslocamento, análise, análise.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Simples troca, síntese, síntese.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Decomposição, síntese, síntese.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        <b>UPF-RS 2018</b>
+        Analise as representações das equações das reações a seguir.
+      </exercicio_enunciado>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        2 Ca(s)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>ñ</simbolos>
+        2 CaO(s)
+        <b>II.	</b>
+        2 KOH(aq)
+        <simbolos>1</simbolos>
+        H2SO4(aq)
+        <simbolos>ñ</simbolos>
+        K2SO4(aq)
+        <simbolos>1</simbolos>
+        2 H2O(
+        <simbolos>L</simbolos>
+        )
+        <b>III.	</b>
+        CaCO3(s)
+        <simbolos>ñ</simbolos>
+        CaO(s)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <b>IV.	</b>
+        3 H2(g)
+        <simbolos>1</simbolos>
+        N2(g)
+        <simbolos>ñ</simbolos>
+        2 NH3(g)
+      </exercicio_item_romano>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio>Essas reações são classificadas, nessa ordem, como:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        oxirredução, neutralização, oxirredução e oxirredução.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        decomposição, oxirredução, neutralização e síntese.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        decomposição, neutralização, síntese e oxir-redução.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        síntese, decomposição, neutralização e oxir-redução.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        oxirredução, neutralização, decomposição e síntese.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        <b>IFSP 2017 </b>
+        A função principal do ácido clorídrico no estômago é proporcionar um pH ótimo para o funcionamento normal das enzimas ali presentes. Quando há excesso, sentimos um desconforto popularmente chamado de azia, que pode facilmente ser combatida ingerindo-se bicarbonato de sódio, que vai agir como um antiácido de acordo com a equação abaixo.
+      </exercicio_enunciado>
+      <secao_exercicio>
+        HC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        NaHCO3
+        <simbolos>ñ</simbolos>
+        NaC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        H2CO3
+      </secao_exercicio>
+      <secao_exercicio>Assinale a alternativa que apresenta, respectivamente, os produtos da decomposição do ácido carbônico (H2CO3) e o tipo de reação ocorrida entre o ácido clorídrico e o bicarbonato de sódio.</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Água e dióxido de carbono; dupla-troca.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Água e monóxido de carbono; dupla-troca.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Dióxido de carbono e monóxido de carbono; decomposição.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Água e água; decomposição.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Dióxido de carbono e dióxido de carbono; síntese.
+      </item_lista>
+      <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+      <b>Unisc-RS 2017</b>
+      Ao jogar uma moeda de cobre em uma solução de nitrato de prata, observa-se a formação de um depósito de prata metálica sobre a moeda. Classifique esta reação de acordo com a formação de nitrato de cobre(II).
+      <item_lista>
+        <b>a)	</b>
+        Reação de decomposição.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Reação de deslocamento.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Reação de síntese.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Reação de análise.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Reação de dupla-troca.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        <b>UFRGS 2020</b>
+        Mariscos possuem uma concha feita de carbonato de cálcio, a qual se forma quando os íons cálcio, secretados a partir das células do marisco, encontram a água do mar, rica em dióxido de carbono dissolvido.
+      </exercicio_enunciado>
+      <secao_exercicio>Considere as afirmações sobre esse processo.</secao_exercicio>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        Uma das reações que ocorre é Ca
+        <sobrescrito>2</sobrescrito>
+        1(aq)
+        <simbolos>1</simbolos>
+        <simbolos>1 </simbolos>
+        CO3
+        <sobrescrito>2</sobrescrito>
+        2(aq)
+        <simbolos>ñ</simbolos>
+        CaCO3(s).
+        <b>II.	</b>
+        A reação envolvendo os íons cálcio na formação da concha é uma reação do tipo ácido-base.
+        <b>III.	</b>
+        O produto formado é classificado como um óxido básico.
+      </exercicio_item_romano>
+      <secao_exercicio>Quais estão corretas?</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Apenas I.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Apenas II.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Apenas III.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Apenas I e II.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        I, II e III.
+        <b></b>
+      </item_lista>
+      <secao_exercicio_numerador>6	</secao_exercicio_numerador>
+      <b>UEPG-PR 2019</b>
+      Um fermento químico utilizado para fazer bolos é o bicarbonato de amônio; quando esse sal é aquecido, ele se decompõe liberando gás carbônico, água e amônia. Com base nessas informações, assinale o que for correto.
+      <exercicio_resolvido>
+        <b>01</b>
+        <b>.</b>
+        O crescimento do bolo ocorre devido à expansão dos gases produzidos na decomposição do bicarbonato de amônio.
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>02</b>
+        <b>.</b>
+        A reação de decomposição do bicarbonato de amônio é uma reação de análise.
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>04</b>
+        <b>.</b>
+        CO2(g), NH3(g) e H2O(v) são os gases liberados na reação de decomposição do bicarbonato de amônio.
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>08</b>
+        <b>.</b>
+        A fórmula do bicarbonato de amônio é NH4HCO3.
+      </exercicio_resolvido>
+      <exercicio_resolvido>
+        <b>16</b>
+        <b>.</b>
+        O bicarbonato de amônio também é conhecido como hidrogenocarbonato de amônio.
+      </exercicio_resolvido>
+     <p class="general-text">
+        <b>Soma:</b>
+      </p>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>7	</secao_exercicio_numerador>
+        <b>IFCE 2019</b>
+        No nosso dia a dia é muito comum encontrarmos a matéria sofrendo uma série de transformações. Quando a transformação é muito brusca, de modo que modifica as propriedades dos materiais a ponto de, no decorrer da transformação, surgirem novas substâncias, diz-se que ocorreu uma reação química.
+      </exercicio_enunciado>
+      <secao_exercicio>
+        A reação Ca
+        <simbolos>1</simbolos>
+        2 HNO3
+        <simbolos>ñ</simbolos>
+        Ca(NO3)2
+        <simbolos>1</simbolos>
+        H2 pode ser classificada, quanto à relação entre o número de substâncias que reagem e o número de substâncias produzidas, como sendo de:
+      </secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        análise.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        dupla-troca.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        síntese.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        adição.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        simples troca.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>8	</secao_exercicio_numerador>
+        <b>IFCE 2016</b>
+        A reação de dupla-troca está corretamente balanceada em:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        CO2
+        <simbolos>1</simbolos>
+        H2O
+        <simbolos>ñ</simbolos>
+        H2CO3
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        BaC
+        <simbolos>L</simbolos>
+        2
+        <simbolos>1</simbolos>
+        H2SO4
+        <simbolos>ñ</simbolos>
+        BaSO4
+        <simbolos>1</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        2 KC
+        <simbolos>L</simbolos>
+        O3
+        <simbolos>ñ</simbolos>
+        2 KC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        3 O2
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Fe(s)
+        <simbolos>1</simbolos>
+        2 H1(aq)
+        <simbolos>1</simbolos>
+        2 C
+        <simbolos>L</simbolos>
+        2(aq)
+        <simbolos>ññ</simbolos>
+        Fe
+        <sobrescrito>2</sobrescrito>
+        1(aq)
+        <simbolos>1</simbolos>
+        2 C
+        <simbolos>L</simbolos>
+        2(aq)
+        <simbolos>1</simbolos>
+        H2(g)
+      </item_lista>
+    </secao_03>
+    <secao_04>
+      <secao_04_titulo1>Superação</secao_04_titulo1>
+      <exercicio_enunciado>
+        <b>UFU-MG 2018</b>
+        No prontuário de um hospital público, em Minas Gerais, foi registrado “intoxicação acidental de uma criança de 12 anos por ingestão de sólido branco, caracterizado como cianeto de sódio”.
+      </exercicio_enunciado>
+      <secao_02_texto_citado></secao_02_texto_citado>
+      <secao_exercicio>
+        O estudo bioquímico do caso registrado indicou que a criança ingeriu cerca de 2
+        <simbolos>?</simbolos>
+        102
+        <sobrescrito>5</sobrescrito>
+        mols do ânion cianeto (CN2). Além disso, é sabido que o cianeto de sódio (NaCN) é solúvel em água e que reage em meio ácido, produzindo gás cianídrico (HCN) e que a dose letal do sólido, ao ser ingerido, está na faixa de 0,09 – 0,180 g. Levando-se em consideração o caso clínico da criança, faça o que se pede.
+      </secao_exercicio>
+      <item_lista>Explique o que ocorre no estômago quando o cianeto entra em contato com o suco gástrico.</item_lista>
+      <item_lista>Escreva a equação química balanceada que ocorre no estômago quando ocorre ingestão do cianeto de sódio.</item_lista>
+      <item_lista>Indique, por meio de cálculos químicos, se a criança correu risco de vida pela referida ingestão do sal cianeto.</item_lista>
+      <secao_exercicio>
+        <b>Dados:</b>
+        Na
+        <simbolos>5</simbolos>
+        23; C
+        <simbolos>5</simbolos>
+        12; N
+        <simbolos>5</simbolos>
+        14.
+      </secao_exercicio>
+    </secao_04>
+    <secao_05>
+      <secao_05_titulo1>No Enem é assim</secao_05_titulo1>
+      As questões selecionadas nesta seção são prioritariamente do Enem, mas questões de vestibulares diversos que apresentam características semelhantes aos itens do referido exame também foram usadas como recurso para estudo.
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        <b>Uepa</b>
+        O processo de lavagem a seco ocorre sob uma determinada temperatura, e isso está diretamente relacionado ao solvente utilizado. Por exemplo, quando o solvente é o tetracloroeteno (C2C
+        <simbolos>L</simbolos>
+        4) comercialmente conhecido como percloroetileno, é usado largamente na indústria de lavagem a seco como agente de limpeza, a melhor temperatura para aquecer o ar que circula no tambor da máquina é de 60 °C. Se essa temperatura não for alcançada, algumas roupas podem não ficar completamente secas ao final do processo; se ficar acima, a roupa poderá enrugar, e alguns tecidos mais sensíveis poderão ser danificados.
+      </exercicio_enunciado>
+      <secao_exercicio>
+        Quando os vapores de percloroetileno são expostos a situações de elevada temperatura, acima de 600 °C, na presença de oxigênio e água, observa-se a formação das espécies HC
+        <simbolos>L</simbolos>
+        , CO2, CO e C
+        <simbolos>L</simbolos>
+        2 representadas pelas equações:
+      </secao_exercicio>
+      <secao_exercicio>
+        C2C
+        <simbolos>L</simbolos>
+        4(g)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>1</simbolos>
+        H2O(g)
+        <simbolos>ñ</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+        (g)
+        <simbolos>1</simbolos>
+        CO(g)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>1</simbolos>
+        C
+        <simbolos>L</simbolos>
+        2(g)
+      </secao_exercicio>
+      <secao_exercicio>
+        CO(g)
+        <simbolos>1</simbolos>
+        C
+        <simbolos>L</simbolos>
+        2(g)
+        <simbolos>ñ</simbolos>
+        COC
+        <simbolos>L</simbolos>
+        2(g)
+      </secao_exercicio>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio>
+        <b>Dados:</b>
+      </secao_exercicio>
+      <secao_exercicio>
+        H
+        <simbolos>5</simbolos>
+        1 g
+        <simbolos>?</simbolos>
+        mol2
+        <sobrescrito>1</sobrescrito>
+        ; C
+        <simbolos>5</simbolos>
+        12 g
+        <simbolos>?</simbolos>
+        mol2
+        <sobrescrito>1</sobrescrito>
+        ; O
+        <simbolos>5</simbolos>
+        16 g
+        <simbolos>?</simbolos>
+        mol2
+        <sobrescrito>1</sobrescrito>
+        ; C
+        <simbolos>L</simbolos>
+        <simbolos>5</simbolos>
+        35,5 g
+        <simbolos>?</simbolos>
+        mol2
+        <sobrescrito>1</sobrescrito>
+      </secao_exercicio>
+      <secao_exercicio>Marque a alternativa correta:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        C2C
+        <simbolos>L</simbolos>
+        4(g)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>1</simbolos>
+        H2O(g)
+        <simbolos>ñ</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+        (g)
+        <simbolos>1</simbolos>
+        CO(g)
+        <simbolos>1</simbolos>
+        CO2(g)
+        <simbolos>1</simbolos>
+        C
+        <simbolos>L</simbolos>
+        2(g) é uma reação de síntese.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        O monóxido de carbono é um óxido básico, enquanto CO2 é um óxido ácido.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        A reação: CO(g)
+        <simbolos>1</simbolos>
+        C
+        <simbolos>L</simbolos>
+        2(g)
+        <simbolos>ñ</simbolos>
+        COC
+        <simbolos>L</simbolos>
+        2(g) corresponde a uma reação de dupla-troca.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        O C
+        <simbolos>L</simbolos>
+        2 é formado tanto por ligação covalente, quanto por ligação iônica.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        As espécies C2C
+        <simbolos>L</simbolos>
+        4, O2 e H2O possuem massas moleculares, respectivamente: 166, 32 e 18 g
+        <simbolos>? </simbolos>
+        mol2
+        <sobrescrito>1</sobrescrito>
+        .
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        <b>UEPB</b>
+        Dadas as equações químicas abaixo, responda à questão:
+      </exercicio_enunciado>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        Metano
+        <simbolos>1</simbolos>
+        Ar  produtos
+        <simbolos>D</simbolos>
+        <i>H </i>
+        °
+        <simbolos>5</simbolos>
+        –802 (kJ/mol)
+        <b>II.	</b>
+        HC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        KOH
+        <simbolos>ñ</simbolos>
+        produtos
+        <simbolos>D</simbolos>
+        <i>H </i>
+        °
+        <simbolos>5</simbolos>
+        –55 (kJ/mol)
+        <b>III.	</b>
+        CaCO3  produtos
+        <simbolos>D</simbolos>
+        <i>H </i>
+        °
+        <simbolos>5</simbolos>
+        <simbolos>1</simbolos>
+        178,2 (kJ/mol)
+      </exercicio_item_romano>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio>Quais os tipos de reações, respectivamente, que ocorrem nas equações I, II e III?</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Aeração, hidrogenação e sulfonação.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Hidrólise, cloração e oxirredução.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Combustão, neutralização e decomposição.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Dupla-troca, ácido-base e combustão.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Neutralização, dupla-troca e oxirredução.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        <b>IFCE 2016</b>
+        Para a produção de ácido sulfúrico, primeiramente queima-se enxofre (S) na presença de oxigênio (O2) produzindo dióxido de enxofre (SO2). Posteriormente, o dióxido de enxofre é oxidado a trióxido de enxofre seguindo a reação (SO2(g)
+        <simbolos>1</simbolos>
+        O2(g)
+        <simbolos>ñ</simbolos>
+        SO3(g)) e, em seguida, o óxido formado absorve água, resultando em ácido sulfúrico (H2SO4). Sobre as reações de produção do ácido sulfúrico, é correto afirmar-se que:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        a reação cuja equação química está apresentada na questão acontece na proporção de 1 mol de dióxido de enxofre para produzir 1 mol de trióxido de enxofre e para isso requer 8 g de oxigênio.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        as reações relatadas na questão acima são denominadas de dupla-troca.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        a formação de dióxido de enxofre na primeira etapa de produção de ácido sulfúrico é denominada reação de adição, na qual duas substâncias simples formam uma substância mais complexa.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        o produto da primeira reação é o mesmo produto da segunda reação de produção de ácido sulfúrico.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        água e SO2 são os reagentes da última reação descrita na questão para produzir ácido sulfúrico.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        <b>Imed-RS </b>
+        Considerando a seguinte reação química, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.
+      </exercicio_enunciado>
+      <secao_exercicio>
+        CaO
+        <simbolos>1</simbolos>
+        H2O
+        <simbolos>ñ</simbolos>
+        Ca(OH)2
+      </secao_exercicio>
+      (    )	Esta equação, quando balanceada, obedece à lei de conservação das massas.(    )	O produto da reação entre o óxido de cálcio e a água é um ácido de Arrhenius.(    )	Os coeficientes que balanceiam corretamente a reação são, respectivamente: 1 – 1 – 1. (    )	Na presença do indicador ácido-base fenolftaleína, o hidróxido de cálcio apresenta coloração rósea.(    )	A reação representada acima é uma reação de decomposição.
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio>A ordem correta de preenchimento dos parênteses, de cima para baixo, é:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        V – F – F – V – F.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        V – V – V – F – V.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        F – V – V – V – F.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        F – F – F – F – F.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        V – F – V – V – F.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        <b>UPE-SSA 2017</b>
+        2016, ano de Olimpíadas, todos os atletas vieram ao Rio de Janeiro, em busca da medalha de ouro. Mas o que poucas pessoas sabem é que a medalha olímpica não é feita inteiramente de ouro: ela possui apenas 1,34% do metal dourado em sua composição.
+      </exercicio_enunciado>
+      <secao_exercicio>Além do alto valor de mercado, que outra propriedade do ouro determina essa decisão?</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Baixa rigidez
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Alta densidade
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Baixa reatividade
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Alta eletronegatividade
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Alta condutividade térmica
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>6	</secao_exercicio_numerador>
+        <b>Enem</b>
+        As misturas efervescentes, em pó ou em comprimidos, são comuns para a administração de vitamina C ou de medicamentos para azia. Essa forma farmacêutica sólida foi desenvolvida para facilitar o transporte, aumentar a estabilidade de substâncias e, quando em solução, acelerar a absorção do fármaco pelo organismo.
+      </exercicio_enunciado>
+      <secao_exercicio>As matérias-primas que atuam na efervescência são, em geral, o ácido tartárico ou o ácido cítrico que reagem com um sal de caráter básico, como o bicarbonato de sódio (NaHCO3), quando em contato com a água. A partir do contato da mistura efervescente com a água, ocorre uma série de reações químicas simultâneas: liberação de íons, formação de ácido e liberação do gás carbônico – gerando a efervescência. As equações a seguir representam as etapas da reação da mistura efervescente na água, em que foram omitidos os estados de agregação dos reagentes, e H3A representa o ácido cítrico.</secao_exercicio>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        NaHCO3
+        <simbolos>ñ</simbolos>
+        Na1
+        <simbolos>1</simbolos>
+        HCO
+        <sobrescrito>3</sobrescrito>
+        2
+        <b>II.	</b>
+        H2CO3
+        <simbolos>Ó</simbolos>
+        H2O
+        <simbolos>1</simbolos>
+        CO2
+        <b>III.	</b>
+        HCO32
+        <simbolos>1</simbolos>
+        H1
+        <simbolos>Ó</simbolos>
+        H2CO3
+        <b>IV.	</b>
+        H3A
+        <simbolos>Ó</simbolos>
+        3 H1
+        <simbolos>1</simbolos>
+        A
+        <sobrescrito>3</sobrescrito>
+        2
+      </exercicio_item_romano>
+      <secao_exercicio>A ionização, a dissociação iônica, a formação do ácido e a liberação do gás ocorrem, respectivamente, nas seguintes etapas:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        IV, I, II e III.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        I, IV, III e II.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        IV, III, I e II.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        I, IV, II e III.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        IV, I, III e II.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>7	</secao_exercicio_numerador>
+        <b>IFCE 2016</b>
+        Reação química é um processo em que ocorre a conversão de uma ou mais substâncias em outros compostos.
+      </exercicio_enunciado>
+      <secao_exercicio>Observe as reações a seguir.</secao_exercicio>
+      <exercicio_item_romano>
+        <b>I.	</b>
+        AgNO3
+        <simbolos>1</simbolos>
+        NaC
+        <simbolos>L</simbolos>
+        <simbolos>ñ</simbolos>
+        AgC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        NaNO3
+        <b>II.	</b>
+        CO2
+        <simbolos>1</simbolos>
+        H2O
+        <simbolos>ñ</simbolos>
+        H2CO3
+        <b>III.	</b>
+        CaCO3
+        <simbolos>ñ</simbolos>
+        CaO
+        <simbolos>1</simbolos>
+        CO2
+        <b>IV.	</b>
+        Zn
+        <simbolos>1</simbolos>
+        Pb(NO3)2
+        <simbolos>ñ</simbolos>
+        Zn(NO3)2
+        <simbolos>1</simbolos>
+        Pb
+      </exercicio_item_romano>
+      <secao_exercicio>A sequência que representa, respectivamente, reações de síntese, análise, simples troca e dupla-troca é:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        IV, II, I, III.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        II, III, IV, I.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        II, I, IV, III.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        I, III, II, IV.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        III, II, I, IV.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>8	</secao_exercicio_numerador>
+        <b>UFSM-RS</b>
+        Na produção de eletricidade, são, algumas vezes, usados geradores a óleo. Quando o óleo queima, produz SO2 que deve ser eliminado antes de ser emitido ao ar, pois é formador de chuva ácida. Um dos métodos para a sua eliminação usa o calcário, produzindo sulfito de cálcio que, posteriormente, é removido por precipitação eletrostática.
+      </exercicio_enunciado>
+      <secao_exercicio>As reações envolvidas na eliminação do SO2 são:</secao_exercicio>
+      <secao_exercicio>
+        <b>1.</b>
+        CaCO3(s)
+        <simbolos>ñ</simbolos>
+        CaO(s)
+        <simbolos>1</simbolos>
+        CO2(g)
+      </secao_exercicio>
+      <secao_exercicio>
+        <b>2.</b>
+        CaO(s)
+        <simbolos>1</simbolos>
+        SO2(g)
+        <simbolos>ñ</simbolos>
+        CaSO3(s)
+      </secao_exercicio>
+      <secao_exercicio>As reações 1 e 2 denominam-se, respectivamente, rea­ções de:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        deslocamento e análise.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        deslocamento e síntese.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        síntese e análise.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        análise e síntese.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        síntese e deslocamento
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>9	</secao_exercicio_numerador>
+        <b>Col. Naval-RJ 2016</b>
+        A azia é um desconforto gástrico que pode ser combatido pela ingestão de uma pequena quantidade de leite de magnésia, que nada mais é que uma solução aquosa de hidróxido de magnésio. Essa base neutraliza o excesso de ácido clorídrico estomacal que causa desconforto. Assinale a opção que apresenta a equação dessa reação química balanceada e sua classificação.
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        Mg(OH)2
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L</simbolos>
+        O
+        <simbolos>ñ</simbolos>
+        MgC
+        <simbolos>L</simbolos>
+        2
+        <simbolos>1</simbolos>
+        H2O é uma reação de simples troca.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        MgOH
+        <simbolos>1</simbolos>
+        HC
+        <simbolos>L</simbolos>
+        <simbolos>ñ</simbolos>
+        MgC
+        <simbolos>L</simbolos>
+        <simbolos>1</simbolos>
+        H2O é uma reação de deslocamento.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        2 Mg(OH)2
+        <simbolos>1</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+        <simbolos>ñ</simbolos>
+        MgC
+        <simbolos>L</simbolos>
+        2
+        <simbolos>1</simbolos>
+        2 H2O é uma reação de análise.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        MgO
+        <simbolos>1</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+        <simbolos>ñ</simbolos>
+        Mg(OH)2 é uma reação de síntese.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Mg(OH)2
+        <simbolos>1</simbolos>
+        2 HC
+        <simbolos>L</simbolos>
+        <simbolos>ñ</simbolos>
+        MgC
+        <simbolos>L</simbolos>
+        2
+        <simbolos>1</simbolos>
+        2 H2O é uma reação de dupla-troca.
+      </item_lista>
+    </secao_05>
+  </p>
+</Marca1>

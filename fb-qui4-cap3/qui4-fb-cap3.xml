@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+  <p class="general-text">
+    <titulo_cap_texto>Carbono: características e representações</titulo_cap_texto>
+    <imagem>
+      <imagem>&lt;ID001-F001-2020-EM-QUI-2SERIE-L1-C2 [Converted].png&gt;&gt;</imagem>
+    </imagem>
+    <legenda>A reposição hormonal pode ser utilizada para restituir os níveis de testosterona.</legenda>
+    <p class="img-credit">Double Brain/Shutterstock.com</p>
+    <p class="general-text">Os esteroides são uma classe específica de lipídeos com uma estrutura formada por 17 átomos de carbono ligados em quatro estruturas cíclicas, diferenciando-se um do outro pelos grupos funcionais que se ligam a esse núcleo comum. Os esteroides naturais mais importantes são o colesterol e seus derivados, como os hormônios sexuais feminino e masculino – o estradiol e a testosterona respectivamente.</p>
+    <p class="general-text">O estradiol exerce mais de 300 funções no organismo feminino, atuando nas funções reprodutivas, na pele, nos ossos, no cérebro e nos vasos sanguíneos. A testosterona age no metabolismo, contribuindo para a formação e o desenvolvimento da massa muscular e fornecendo as típicas características físicas masculinas. Esse hormônio atua como estimulante da fertilidade e no aumento do desempenho sexual, além de controlar as emoções, o que aumenta a agressividade de um indivíduo, quando em concentrações excessivas no organismo.</p>
+    <texto_bullets>•	Você consegue identificar os átomos de carbono e hidrogênio que estão “omitidos” na fórmula estrutural da testosterona?</texto_bullets>
+    <texto_bullets>•	Qual é a diferença entre os tipos de fórmulas existentes para representar uma cadeia carbônica?</texto_bullets>
+    <boxe_02_texto> Neste capítulo serão abordadas as habilidades EM13CNT205, EM13CNT207 e EM13CNT301.</boxe_02_texto>
+    <titulo1>	Recordando ligações e valências</titulo1>
+    <p class="general-text">
+      Como já estudado, o carbono é um elemento químico situado no grupo 14 (família IVA) da tabela periódica, portanto tem quatro elétrons na camada de valência e deve realizar quatro ligações para cum- prir a regra do octeto. Essas ligações são do tipo covalente e podem ser simples (
+      <simbolos>2</simbolos>
+      ), dupla (
+      <simbolos>5</simbolos>
+      ) ou tripla (
+      <simbolos>ä</simbolos>
+      ), como ilustrado na figura a seguir.
+    </p>
+    <imagem>
+      <imagem>&lt;ID002-I001-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>O carbono realiza quatro ligações covalentes.</legenda>
+    <p class="general-text">A localização dos elementos químicos na tabela periódica indica o número de elétrons na camada de valência de cada um. Por exemplo, os elementos químicos do grupo 16 (família dos calcogênios) contêm seis elétrons na camada de valência. Para completar o octeto, precisam compartilhar dois elétrons, podendo realizar duas ligações simples ou uma ligação dupla. Dizemos que são elementos químicos bivalentes, pois necessitam de dois elétrons para completar a camada de valência como a de um gás nobre. Veja outros exemplos a seguir.</p>
+    <imagem>
+      <imagem>&lt;ID004-I003-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Número de elétrons na camada de valência dos átomos dos elementos químicos comuns nos compostos orgânicos.</legenda>
+    <titulo2>
+      Ligação covalente sigma (
+      <simbolos>s</simbolos>
+      ) e pi (
+      <simbolos>p</simbolos>
+      )
+    </titulo2>
+    <p class="general-text">
+      As ligações entre carbonos são importantes para justificar algumas propriedades que os compostos orgânicos apresentam. Nas ligações simples (–), temos o compartilhamento de um par de elétrons entre os átomos envolvidos. Nas ligações múltiplas – duplas (
+      <simbolos>5</simbolos>
+      ) e triplas (
+      <simbolos>ä</simbolos>
+      ) –, temos o compartilhamento de dois e três pares de elétrons, respectivamente. A formação dessas ligações químicas pode ser explicada pela Teoria da Ligação de Valência. De modo simplificado, segundo essa teoria, as ligações covalentes ocorrem pela sobreposição (
+      <i>overlap</i>
+      ) entre
+      <b>
+        orbitais
+        <Story>
+          <texto_gloss_titulo>
+            <b>Orbital:</b>
+            região do espaço de maior probabilidade de se encontrar um elétron. Cada orbital tem até dois elétrons, desde que estes estejam desemparelhados, com
+            <i>spins</i>
+            opostos – imagine dois elétrons girando no espaço em torno de si mesmos: um gira no sentido horário e o outro, no anti-horário. Pares de elétrons desemparelhados são representados por uma seta para cima e uma para baixo .
+          </texto_gloss_titulo>
+        </Story>
+      </b>
+      atômicos, formando orbitais moleculares. Quando essa sobreposição é frontal, forma-se uma ligação do tipo sigma (
+      <simbolos>s</simbolos>
+      ). Já quando a sobreposição ocorre lateralmente, formam-se ligações do tipo pi (
+      <simbolos>p</simbolos>
+      ), que são mais fracas. Na figura a seguir, temos a representação das ligações
+      <simbolos>s</simbolos>
+      e
+      <simbolos>p</simbolos>
+      e, na sequência, uma tabela que resume o tipo e o número de ligações encontradas pela teoria de Lewis e pela Teoria de Ligação de Valência.
+    </p>
+    <imagem>
+      <imagem>&lt;ID007-I005-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>
+      Representação da formação das ligações sigma (
+      <simbolos>s</simbolos>
+      ) e pi (
+      <simbolos>p</simbolos>
+      ) pela sobrepoisção frontal e lateral dos orbitais, respectivamente.
+    </legenda>
+    <Table>
+      <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="5" aid:tcols="2">
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="2" aid:ccolwidth="311.81102362204723">
+          <Tabela_gravata1>Tipos de ligações</Tabela_gravata1>
+        </TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="127.55905511811024">Teoria de Lewis</TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="184.251968503937">Teoria de ligação de valência</TABELA_GRAVATA1>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="127.55905511811024">
+          <tabela_gravata3>
+            Ligação simples (
+            <simbolos>2</simbolos>
+            )
+          </tabela_gravata3>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="184.251968503937">
+          <tabela_texto_geral>
+            1
+            <simbolos>s</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="127.55905511811024">
+          <tabela_gravata3>
+            Ligação dupla (
+            <simbolos>Ê</simbolos>
+            )
+          </tabela_gravata3>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="184.251968503937">
+          <tabela_texto_geral>
+            1
+            <simbolos>s</simbolos>
+            e 1
+            <simbolos>p</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="127.55905511811024">
+          <tabela_gravata3>
+            Ligação tripla (
+            <simbolos>Ë</simbolos>
+            )
+          </tabela_gravata3>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="184.251968503937">
+          <tabela_texto_geral>
+            1
+            <simbolos>s</simbolos>
+            e 2
+            <simbolos>p</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+      </Table>
+    </Table>
+    <titulo1>	Hibridização (ou hibridação)</titulo1>
+    <p class="general-text">
+      A Teoria da Ligação de Valência explica as ligações covalentes pelo surgimento dos orbitais moleculares formados pela sobreposição de orbitais atômicos. Para determinar a geometria de uma molécula, porém, devemos analisar, entre outros fatores, as ligações entre os átomos. Nesse caso, levamos em consideração apenas as ligações sigma (
+      <simbolos>s</simbolos>
+      ) e os pares de elétrons não compartilhados ao redor do átomo central. Dessa forma, as moléculas podem apresentar, por exemplo, geometria linear (representada por dois ligantes no plano, com ligações com ângulo formando 180
+      <simbolos>°</simbolos>
+      ), trigonal plana (quando três ligantes ocupam o vértice de um triângulo, representado no plano com ângulo de 120
+      <simbolos>°</simbolos>
+      entre as ligações) ou tetraédrica (representada por quatro ligantes que ocupam o vértice de um tetraedro, com o carbono no centro com ângulo de 109
+      <simbolos>°</simbolos>
+      28&apos;, não sendo representado no plano, mas sim espacialmente). Veja a seguir um exemplo de cada uma dessas geometrias.
+    </p>
+    <imagem>
+      <imagem>&lt;ID008-I006-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>
+      Fórmulas estruturais das moléculas HCN, CH
+      <sub>2</sub>
+      O e CH
+      <sub>4</sub>
+      , com destaque para as geometrias moleculares: linear, trigonal plana e tetraédrica, respectivamente.
+    </legenda>
+    <p class="general-text">
+      Para explicarmos o surgimento dessas geometrias, é necessário compreendermos o que são orbitais híbridos, surgidos com base no conceito de
+      <b>
+        hibridização
+        <Glossario>
+          <texto_gloss_titulo>
+            <b>Hibridização:</b>
+            rearranjo de elétrons entre seus orbitais para o orbital mais externo, de modo que a molécula fique cada vez mais estável.
+          </texto_gloss_titulo>
+        </Glossario>
+      </b>
+      (ou
+      <b>hibridação</b>
+      ). A teoria da hibridização foi proposta por Linus Pauling para explicar as ligações de alguns compostos que a Teoria da Ligação de Valência não explicava de maneira satisfatória. A hibridização representa um procedimento matemático no qual orbitais atômicos são combinados de tal maneira que se chega a uma descrição satisfatória da ligação covalente observada.
+    </p>
+    <p class="general-text">Com base na distribuição eletrônica do carbono apresentada a seguir, vemos que ele apresenta dois elétrons desemparelhados. Logo, ele só poderia realizar duas ligações covalentes.</p>
+    <p class="general-text">Porém, sabemos que o carbono é tetravalente – realiza quatro ligações covalentes. A hibridização entre o orbital s e os orbitais p explica essa tetravalência do carbono e pode ocorrer de três maneiras.</p>
+    <titulo2>
+      Hibridização sp
+      <sub></sub>
+      <sub>3</sub>
+    </titulo2>
+    <p class="general-text">
+      Nesse tipo de hibridização, o orbital 2s é combinado com os três orbitais 2p, formando quatro orbitais híbridos
+      <b>sp</b>
+      <sub></sub>
+      <sub>3</sub>
+      .
+    </p>
+    <imagem>
+      <imagem>&lt;ID010-I008-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <p class="general-text">
+      Os quatro orbitais híbridos sp
+      <sub>3</sub>
+      correspondem à geometria tetraédria verificada para a molécula de metano (CH
+      <sub></sub>
+      <sub>4</sub>
+      ).
+    </p>
+    <titulo2>
+      Hibridização sp
+      <sub>2</sub>
+    </titulo2>
+    <p class="general-text">
+      Nesse tipo de hibridização, o orbital 2s é combinado com dois orbitais 2p, formando três novos orbitais idênticos denominados orbitais híbridos
+      <b>sp</b>
+      <sub>2</sub>
+      . Essa hibridização ocorre com carbonos que realizam uma ligação dupla. Note que fica disponível um orbital p puro para realizar uma ligação covalente
+      <simbolos>p</simbolos>
+      . Assim, o carbono só precisa de três orbitais hibridizados.
+    </p>
+    <imagem>
+      <imagem>&lt;ID011-I009-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <p class="general-text">
+      Os três orbitais híbridos sp
+      <sub>2</sub>
+      correspondem à geometria trigonal plana, verificada para a molécula de metanal (CH
+      <sub>2</sub>
+      O).
+    </p>
+    <titulo2>Hibridização sp</titulo2>
+    <p class="general-text">
+      Nesse tipo de hibridização, o orbital 2s é combinado com um orbital 2p, formando dois novos orbitais idênticos denominados orbitais híbridos
+      <b>sp</b>
+      . Note que ficam disponíveis dois orbitais puros p para realizar duas ligações covalentes
+      <simbolos>p</simbolos>
+      , uma vez que o carbono realiza ligação tripla.
+    </p>
+    <imagem>
+      <imagem>&lt;ID012-I010-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <p class="general-text">Os dois orbitais híbridos sp correspondem à geometria linear, verificada para a molécula de cianeto de hidrogênio (HCN).</p>
+    <Table>
+      <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="5" aid:tcols="5">
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="5" aid:ccolwidth="481.88976377952775">
+          <Tabela_gravata1>Tipos de hibridização, a geometria e as ligações associadas a cada um</Tabela_gravata1>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.87972359254925">
+          <tabela_gravata2>Hibridação</tabela_gravata2>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="70.39405659454233">
+          <tabela_gravata2>
+            <b>Ligações</b>
+          </tabela_gravata2>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="136.03758554254676">
+          <tabela_gravata2>
+            <b>Ângulo entre ligações</b>
+          </tabela_gravata2>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.73576316716951">
+          <tabela_gravata2>
+            <b>Geometria</b>
+          </tabela_gravata2>
+        </Cell>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="119.8426348827199">
+          <tabela_gravata2>
+            <b>Ligação de valência</b>
+          </tabela_gravata2>
+        </Cell>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.87972359254925">
+          <tabela_texto_geral>sp</tabela_texto_geral>
+          <sub>3</sub>
+        </tabela_texto_geral>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="70.39405659454233">
+          <tabela_texto_geral>
+            <tabela_texto_geral href="file:///D:/TRABALHOS/00_Poliedro/Quimica/V4/2022_v4_qui_fb_u2_cap3_100_110_pf/ID013-I011-2020-EM-QUI-2SERIE-L1-C2.ai"></tabela_texto_geral>
+          </tabela_texto_geral>
+        </Cell>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="136.03758554254676">
+          <tabela_texto_geral>109º28&apos;</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.73576316716951">
+          <tabela_texto_geral>Tetraédrica</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="119.8426348827199">
+          <tabela_texto_geral>
+            4
+            <simbolos>s</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.87972359254925">
+          <tabela_texto_geral>sp</tabela_texto_geral>
+          <sub>2</sub>
+        </tabela_texto_geral>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="70.39405659454233">
+          <tabela_texto_geral>
+            <tabela_texto_geral href="file:///D:/TRABALHOS/00_Poliedro/Quimica/V4/2022_v4_qui_fb_u2_cap3_100_110_pf/ID013-I011-2020-EM-QUI-2SERIE-L1-C2.ai"></tabela_texto_geral>
+          </tabela_texto_geral>
+        </Cell>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="136.03758554254676">
+          <tabela_texto_geral>120º</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.73576316716951">
+          <tabela_texto_geral>Trigonal plana</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="119.8426348827199">
+          <tabela_texto_geral>
+            3
+            <simbolos>s</simbolos>
+          </tabela_texto_geral>
+          <tabela_texto_geral>
+            1
+            <simbolos>p</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.87972359254925">
+          <tabela_texto_geral>sp</tabela_texto_geral>
+        </tabela_texto_geral>
+        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="70.39405659454233">
+          <tabela_texto_geral>
+            <tabela_texto_geral href="file:///D:/TRABALHOS/00_Poliedro/Quimica/V4/2022_v4_qui_fb_u2_cap3_100_110_pf/ID013-I011-2020-EM-QUI-2SERIE-L1-C2.ai"></tabela_texto_geral>
+          </tabela_texto_geral>
+        </Cell>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="136.03758554254676">
+          <tabela_texto_geral>180º</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="77.73576316716951">
+          <tabela_texto_geral>Linear</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="119.8426348827199">
+          <tabela_texto_geral>
+            2
+            <simbolos>s</simbolos>
+          </tabela_texto_geral>
+          <tabela_texto_geral>
+            2
+            <simbolos>p</simbolos>
+          </tabela_texto_geral>
+        </tabela_texto_geral>
+      </Table>
+    </Table>
+    <secao_01>
+      <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+      <p class="exercicio-text ml">
+        1
+        <b>UFRGS 2018</b>
+        Considere o composto representado abaixo:
+      </p>
+      <p class="exercicio-text ml"></p>
+      <imagem>
+        <imagem>&lt;ID014-Q001-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </imagem>
+      <texto_exemplo>Os ângulos aproximados, em graus, das ligações entre os átomos representados pelas letras a, b e c, são, respectivamente, </texto_exemplo>
+      <item_lista>
+        <b>a)	</b>
+        109,5 – 120 – 120.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        109,5 – 120 – 180.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        120 – 120 – 180.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        120 – 109,5 – 120.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        120 – 109,5 – 180.
+      </item_lista>
+      <titulo3>
+        <b>Resolução:</b>
+      </titulo3>
+      <p class="exercicio-text ml">Alternativa: B</p>
+      <p class="exercicio-text ml">
+        O ângulo
+        <i>a</i>
+        representa um carbono fazendo duas ligações simples com outros dois átomos de carbono e duas ligações simples com dois átomos de hidrogênio omitidas na imagem, uma vez que esta representa a fórmula estrutural de linhas. Assim, há quatro nuvens eletrônicas ao redor do átomo central e quatro átomos ligantes, adquirindo a forma de uma geometria tetraédrica (109,5
+        <simbolos>°</simbolos>
+        ) com hibridização sp
+        <sub>3</sub>
+        .
+      </p>
+      <p class="exercicio-text ml">
+        O ângulo
+        <i>b</i>
+        representa um carbono fazendo duas ligações simples com outros dois carbonos e uma ligação dupla com um átomo de oxigênio. Assim, há três nuvens eletrônicas ao redor do átomo central e três átomos ligantes, adquirindo a forma de uma geometria triangular (120
+        <simbolos>°</simbolos>
+        ) com hibridização sp
+        <sub>2</sub>
+        .
+      </p>
+      <p class="exercicio-text ml">
+        O ângulo
+        <i>c</i>
+        representa um carbono fazendo uma ligação simples e uma ligação tripla com outro átomo de carbono. Assim, há duas nuvens eletrônicas ao redor do átomo central e dois átomos ligantes, adquirindo a forma de uma geometria linear (180
+        <simbolos>°</simbolos>
+        ) com hibridização sp.
+      </p>
+      <imagem>
+        <imagem>&lt;ID015-I012-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </imagem>
+    </secao_01>
+    <titulo1>	Tetravalência do carbono</titulo1>
+    <p class="general-text">O químico alemão Friedrich August Kekulé (1829-1896), observando a formação e as propriedades dos compostos orgânicos, formulou três postulados:</p>
+    <p class="exercicio-text ml">1. O carbono é tetravalente.</p>
+    <titulo4>
+      <b></b>
+    </titulo4>
+    <p class="general-text">O carbono tem quatro elétrons na camada de valência, devendo realizar quatro ligações covalentes para atingir o octeto. Essas ligações podem ser simples, duplas ou triplas. Um fator que favorece a realização de ligações covalentes é o tamanho pequeno de seu raio.</p>
+    <p class="general-text">Nos exemplos a seguir, podemos observar três moléculas orgânicas formadas pelos elementos químicos carbono e hidrogênio: o carbono realiza, com outro átomo de carbono, ligações covalentes simples, dupla e tripla, respectivamente, para adquirir a estabilidade, evidenciando sua tetravalência.</p>
+    <imagem>
+      <imagem>&lt;ID016-I013-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Fórmula estrutural dos compostos etano, eteno e etino.</legenda>
+    <p class="exercicio-text ml">
+      <b>2. As valências do carbono são iguais. </b>
+    </p>
+    <titulo4></titulo4>
+    <p class="general-text">Kekulé observou também que as quatro ligações são iguais, o que faz com que elas se distribuam de forma espacial. Isso foi comprovado posteriormente com os trabalhos do químico holandês Jacobus Henricus van’t Hoff (1852-1911) e do químico francês José Achile Le Bell (1847-1930), que determinaram a estrutura tetraédrica do carbono.</p>
+    <p class="general-text">
+      Nos exemplos seguintes, vemos a molécula do clorofórmio (CHC
+      <simbolos>L</simbolos>
+      <sub>3</sub>
+      ) com diferentes posicionamentos do átomo de hidrogênio, mostrando que sua valência é a mesma.
+    </p>
+    <imagem>
+      <imagem>&lt;ID017-I014-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Quatro representações para a fórmula estrutural do clorofórmio.</legenda>
+    <p class="exercicio-text ml">
+      <b>3. O carbono tem capacidade de formar cadeias.</b>
+    </p>
+    <titulo4></titulo4>
+    <p class="general-text">O carbono pode se ligar a outros átomos de carbono, formando moléculas com um número muito grande de átomos, fato que não se repete com os demais elementos químicos da tabela periódica. O silício, por exemplo, está localizado na mesma família do carbono e realiza ligações entre seus átomos, porém suas moléculas ficam limitadas a menos de uma dezena de átomos de silício.</p>
+    <p class="general-text">Nos exemplos a seguir, podemos observar três tipos de cadeias carbônicas formadas devido à capacidade do carbono de se ligar a outros átomos.</p>
+    <imagem>
+      <imagem>&lt;ID018-I015-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>O carbono é capaz de formar diferentes cadeias carbônicas.</legenda>
+    <titulo1>	Tipos de fórmulas</titulo1>
+    <p class="general-text">Uma cadeia carbônica é uma sucessão de átomos de carbono unidos entre si por ligações covalentes. Existem várias maneiras de representar essa cadeia que chamamos de fórmula. Vamos utilizar como exemplo a molécula do gás propano, que é amplamente utilizado nas indústrias e nas residências. Ele é usado como combustível para fogões e deve gerar uma chama totalmente azul durante a sua combustão. Caso a chama fique avermelhada, alaranjada ou amarelada, é um indicativo de uma combustão deficiente e, consequentemente, perigosa.</p>
+    <imagem>
+      <imagem>&lt;ID020-F002-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Combustão completa do gás propano evidenciada pela chama azul.</legenda>
+    <p class="img-credit">Nor Gal/Shutterstock.com</p>
+    <titulo2>Fórmula estrutural</titulo2>
+    <p class="general-text">Esse tipo de fórmula indica todos os átomos presentes em uma cadeia carbônica e as ligações que eles realizam entre si para completar seu octeto. Ela pode ser representada com os hidrogênios isolados ou condensados ao átomo de carbono. </p>
+    <imagem>
+      <imagem>&lt;ID021-I017-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Fórmulas estruturais para o propano.</legenda>
+    <p class="general-text">
+      Além dessas fórmulas estruturais, podemos representar detalhadamente as ligações no âmbito tridimensional. Na representação da
+      <b>fórmula estrutural estereoquímica ou espacial</b>
+      , os átomos são representados de acordo com sua posição no espaço. As ligações na forma de traço (
+      <simbolos>2</simbolos>
+      ) estão no plano do papel, as ligações em forma de cunha estão para a frente do plano e as ligações com linhas tracejadas estão para trás do plano.
+    </p>
+    <imagem>
+      <imagem>&lt;ID022-I018-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <p class="general-text">Assim, teríamos:</p>
+    <imagem>
+      <imagem>&lt;ID023-I019-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </imagem>
+    <legenda>Fórmula estrutural estereoquímica do propano.</legenda>
+    <titulo2>Fórmula de linhas, traços ou bastões</titulo2>
+    <p class="general-text">Esse tipo de fórmula omite todos os átomos de carbono e os hidrogênios ligados a ele. Ela é representada por linhas, e em cada vértice há um átomo de carbono. A seguir, à esquerda, temos a fórmula de linhas; à direita, como deveríamos visualizar os elementos químicos que a compõem. Essa fórmula é muito utilizada para representar compostos orgânicos, pois permite representar um composto de maneira mais simplificada, especialmente aqueles com cadeias fechadas (que apresentam o formato de uma figura geométrica: triângulo, quadrado, pentágono, hexágono etc.). Omitimos apenas as ligações formadas entre os átomos de carbono e hidrogênio, uma vez que já estão implícitas na fórmula de linhas.</p>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>
+        É comum encontrarmos uma
+        <b>fórmula de linhas</b>
+        como resposta de um exercício que pede para desenharmos a fórmula estrutural de uma molécula, especialmente se esta for grande. Para muitos autores, a fórmula de linhas seria a fórmula estrutural simplificada.
+      </boxe_17_texto>
+    </boxe_17>
+    <p class="general-text">Veja dois exemplos de fórmula de linhas e as respectivas fórmulas estruturais para uma cadeia aberta e uma cadeia fechada:</p>
+    <Table>
+      <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="3" aid:tcols="3">
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <tabela_texto_geral>
+            <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+            <tabela_texto_geral></tabela_texto_geral>
+          </tabela_texto_geral>
+        </TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <tabela_texto_geral>
+            <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+            <tabela_texto_geral></tabela_texto_geral>
+          </tabela_texto_geral>
+        </TABELA_GRAVATA1>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <imagem>&lt;ID024-I020-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <tabela_texto_geral>Fórmula de linhas da molécula, que nada mais é do que a fórmula estrutural simplificada.</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <tabela_texto_geral>A partir desta etapa, são ocultados os símbolos dos átomos de carbono e unidos os traços que representam as ligações.</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="104.88188976377954">
+          <tabela_texto_geral>Fórmula estrutural condensada. A partir dela, são ocultadas as ligações</tabela_texto_geral>
+          <tabela_texto_geral>C – H e os átomos de H.</tabela_texto_geral>
+        </tabela_texto_geral>
+      </Table>
+    </Table>
+    <p class="general-text">Quando vamos representar a fórmula de linhas de uma molécula que tem outros elementos químicos além do carbono e do hidrogênio, estes devem ser escritos. Observe a seguir a representação da fórmula de linhas.</p>
+    <imagem>&lt;ID025-I021-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    <legenda>Fórmula estrutural da dopamina, um neurotransmissor.</legenda>
+    <titulo2>Fórmula molecular</titulo2>
+    <p class="general-text">Esse tipo de fórmula indica os elementos químicos presentes na molécula e o número de átomos de cada um deles, sendo muito utilizada em reações químicas. Para o propano, teríamos C3H8. Podemos utilizar a fórmula molecular do propano e montar sua reação de combustão:</p>
+    <p class="general-text">
+      C
+      <sub>3</sub>
+      H
+      <sub>8</sub>
+      <simbolos>1</simbolos>
+      5 O
+      <sub>2</sub>
+      <simbolos>ñ</simbolos>
+      3 CO
+      <sub>2</sub>
+      <simbolos>1</simbolos>
+      4 H
+      <sub>2</sub>
+      O
+    </p>
+    <p class="general-text">
+      Para montar esse tipo de fórmula, devemos primeiro escrever o elemento químico carbono, seguido do hidrogênio e, depois, os demais elementos químicos, respeitando a ordem alfabética. Por exemplo: o gás sarin, usado como arma química e classificado como arma de destruição em massa pela ONU, tem fórmula química C
+      <sub>4</sub>
+      H
+      <sub>10</sub>
+      FO
+      <sub>2</sub>
+      P e a fórmula estrutural apresentada a seguir.
+    </p>
+    <imagem>&lt;v4_qui_fb_u2_cap3_grafico pg 109.png&gt;</imagem>
+    <legenda></legenda>
+    <legenda></legenda>
+    <legenda>
+      Fórmula estrutural do sarin, cuja fórmula molecular é C
+      <sub>4</sub>
+      H
+      <sub>10</sub>
+      FO
+      <sub>2</sub>
+      P.
+    </legenda>
+    <titulo2>Fórmula mínima</titulo2>
+    <p class="general-text">Esse tipo de fórmula indica a menor proporção possível de átomos em uma molécula utilizando números inteiros. Ela é usada em cálculos químicos teóricos. </p>
+    <p class="general-text">
+      Para o propano, a fórmula mínima seria igual à fórmula molecular, C
+      <sub>3</sub>
+      H
+      <sub>8</sub>
+      , uma vez que não existe nenhum número inteiro que é divisor comum dos números 3 e 8.
+    </p>
+    <p class="general-text">Veja outros exemplos na tabela:</p>
+    <Table>
+      <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="5" aid:tcols="3">
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="3" aid:ccolwidth="242.92913002855192">
+          <Tabela_gravata1>Fórmula molecular e mínima para algumas substâncias</Tabela_gravata1>
+        </TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">Substância</TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">Fórmula molecular</TABELA_GRAVATA1>
+        <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="101.196846563985">Fórmula mínima</TABELA_GRAVATA1>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+          <tabela_texto_geral>Benzeno</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+          <tabela_texto_geral>C6H6</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="101.196846563985">
+          <tabela_texto_geral>CH</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+          <tabela_texto_geral>Butano</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+          <tabela_texto_geral>C4H10</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="101.196846563985">
+          <tabela_texto_geral>C2H5</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582678">
+          <tabela_texto_geral>Metano</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="85.03937007874016">
+          <tabela_texto_geral>CH4</tabela_texto_geral>
+        </tabela_texto_geral>
+        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="101.196846563985">
+          <tabela_texto_geral>CH4</tabela_texto_geral>
+        </tabela_texto_geral>
+      </Table>
+    </Table>
+    <titulo2>Fórmula de esferas (ou bolas) e varetas (ou paus)</titulo2>
+    <p class="general-text">Esse tipo de fórmula representa cada elemento químico com uma esfera de cores e/ou tamanhos diferentes e representa as ligações com varetas.</p>
+    <p class="general-text">Na fórmula de esferas do propano, a seguir representada, podemos observar que os átomos de carbono estão representados na cor mais escura e os hidrogênios na cor mais clara.</p>
+    <imagem>&lt;ID026-I022-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    <legenda>Representação da molécula do propano utilizando a fórmula de esferas e varetas.</legenda>
+    <titulo2>Fórmula percentual</titulo2>
+    <p class="general-text">Esse tipo de fórmula representa a porcentagem de cada elemento químico presente na molécula, com soma total igual a 100%. </p>
+    <p class="general-text">
+      Para o propano (C
+      <sub>3</sub>
+      H
+      <sub>8</sub>
+      ), vamos primeiro calcular sua massa molar:
+    </p>
+    <imagem>
+      <imagem>&lt;001.png&gt;</imagem>
+    </imagem>
+    <p class="general-text">Em seguida, podemos calcular o percentual, em massa, dos átomos na molécula.</p>
+    <texto_bullets>Para o carbono:</texto_bullets>
+    <imagem>&lt;002.png&gt;</imagem>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>
+        As moléculas orgânicas podem ser representadas, ainda, pelo modelo do
+        <b>espaço preenchido</b>
+        (
+        <i>full fill</i>
+        ), no qual podemos observar o volume ocupado pelos átomos, dando ideia do seu formato tridimensional. Para o propano, teríamos:
+      </boxe_17_texto>
+      <imagem>&lt;ID027-I023-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </boxe_17>
+    <texto_bullets>Para o hidrogênio:</texto_bullets>
+    <p class="general-text">
+      y
+      <simbolos>5</simbolos>
+      100%
+      <simbolos>2</simbolos>
+      81,8%
+      <simbolos>5</simbolos>
+      18,2%
+    </p>
+    <p class="general-text">
+      Fórmula percentual: C
+      <sub>81,8%</sub>
+      H
+      <sub>18,2%</sub>
+    </p>
+    <secao_15>
+      <secao_15_titulo1>Aplicando conhecimentos</secao_15_titulo1>
+      <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+      Complete as fórmulas a seguir com ligações simples, duplas ou triplas entre os átomos.
+      <secao_exercicio_item>
+        <b>a)	</b>
+        <imagem>&lt;ID028-I024-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>
+          b)
+          <imagem>&lt;ID029-I025-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </b>
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>
+          c)
+          <imagem>&lt;ID030-I026-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </b>
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>
+          d)
+          <imagem>&lt;ID031-I027-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+        </b>
+      </secao_exercicio_item>
+      <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+      Complete as moléculas
+      <p class="exercicio-text ml">seguintes</p>
+      acrescentando átomos de hidrogênio.
+      <secao_exercicio_item>
+        <b>a)	</b>
+        <imagem>&lt;ID032-I028-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </secao_exercicio_item>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio_item>
+        <b>b)	</b>
+        <imagem>&lt;ID033-I029-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </secao_exercicio_item>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio_item>
+        <b>c)	</b>
+        <imagem>&lt;ID034-I030-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </secao_exercicio_item>
+      <secao_exercicio></secao_exercicio>
+      <secao_exercicio_item>
+        <b>d)	</b>
+        <imagem>&lt;ID035-I031-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </secao_exercicio_item>
+      <secao_exercicio></secao_exercicio>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        Identifique o tipo de hibridização que ocorre em cada um dos carbonos nas moléculas seguintes. Classifique em
+        <simbolos>s</simbolos>
+        ou
+        <simbolos>p</simbolos>
+        as ligações entre os átomos.
+      </p>
+      <item_lista>
+        <b>a)	</b>
+        <imagem>&lt;ID037-I033-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        <imagem>&lt;ID038-I034-2020-EM-QUI-2SERIE-L1-C2_.png&gt;</imagem>
+      </item_lista>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        Represente os compostos a seguir utilizando fórmulas de linhas.
+      </p>
+      <item_lista>
+        <b>a)	</b>
+        <imagem>&lt;ID039-I035-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        <imagem>&lt;ID040-I036-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      </item_lista>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        Sabendo que a dopamina é formada pelos elementos químicos carbono, hidrogênio, nitrogênio e oxigênio, com base na fórmula de esferas, escreva sua fórmula de linhas e sua fórmula molecular.
+      </p>
+      <imagem>&lt;ID041-I037-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>6	</secao_exercicio_numerador>
+        <b>PUC-Rio </b>
+        A seguir está representada a estrutura do metacrilato de metila.
+      </p>
+      <imagem>&lt;ID042-Q002-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <secao_exercicio>Essa substância possui fórmula molecular</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        C
+        <sub>4</sub>
+        H
+        <sub>6</sub>
+        O
+        <sub>2</sub>
+        e 2 ligações pi (
+        <simbolos>p</simbolos>
+        ).
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        C
+        <sub>4</sub>
+        H
+        <sub>6</sub>
+        O
+        <sub>2</sub>
+        e 4 ligações pi (
+        <simbolos>p</simbolos>
+        ).
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        C
+        <sub>5</sub>
+        H
+        <sub>8</sub>
+        O
+        <sub>2</sub>
+        e 4 ligações pi (
+        <simbolos>p</simbolos>
+        ).
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        C
+        <sub>5</sub>
+        H
+        <sub>8</sub>
+        O
+        <sub>2</sub>
+        e 10 ligações sigma (
+        <simbolos>s</simbolos>
+        ).
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        C
+        <sub>5</sub>
+        H
+        <sub>8</sub>
+        O
+        <sub>2</sub>
+        e 14 ligações sigma (
+        <simbolos>s</simbolos>
+        ).
+      </item_lista>
+    </secao_15>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        <b>Uece 2020</b>
+        Observe a fórmula estrutural incompleta do seguinte composto orgânico, com dois átomos de carbono numerados:
+      </p>
+      <imagem>&lt;em_2022_v4_qui_fb_u2_cap3_q1_uece 2020.png&gt;</imagem>
+      <secao_exercicio>Com relação à estrutura acima apresentada, é correto dizer que faltam três ligações, quais sejam:</secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        uma simples e duas duplas, e o átomo de carbono 1 é do tipo sp
+        <sub>³</sub>
+        e o 2 é do tipo sp.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        uma dupla e duas simples, e o átomo de carbono 1 é do tipo sp e o 2 é do tipo sp
+        <sub>2</sub>
+        .
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        uma simples e duas duplas, e o átomo de carbono 1 é do tipo sp
+        <sub>³</sub>
+        e o 2 é do tipo sp
+        <sub>2</sub>
+        .
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        uma tripla e duas simples, e o átomo de carbono 1 é do tipo sp
+        <sub>³</sub>
+        e o 2 é do tipo sp
+        <sub>2</sub>
+        .
+      </item_lista>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        <b>UEL-PR 2017 (Adapt.)</b>
+        As fórmulas de linhas na química orgânica são muitas vezes empregadas na tentativa de simplificar a notação de substâncias. Dessa maneira, as fórmulas de linhas para o butano e o metil-butano são representadas, respectivamente, por
+      </p>
+      <imagem>&lt;ID054-Q005-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <secao_exercicio>Considere a substância representada pela estrutura a seguir.</secao_exercicio>
+      <imagem>&lt;ID054-Q005-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <secao_exercicio>A partir dessas informações, responda: Qual a fórmula molecular dessa substância?</secao_exercicio>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        <b>Famema-SP 2017 (Adapt.) </b>
+        A fórmula representa a estrutura da leucina, um dos aminoácidos formadores de proteínas no organismo humano.
+      </p>
+      <imagem>&lt;ID056-Q007-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <secao_exercicio>Dê o número de átomos de carbono e de hidrogênio presentes em cada molécula de leucina.</secao_exercicio>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        <b>EBMSP-BA 2016</b>
+        Considerando que a testosterona, C
+        <sub>19</sub>
+        H
+        <sub>28</sub>
+        O
+        <sub>2</sub>
+        , tem massa molar 288 g · mol2
+        <sub>1</sub>
+        e que apresenta, na sua fórmula estrutural, apenas uma hidroxila do grupo funcional da classe dos álcoois,
+      </p>
+      <secao_exercicio_bullet>
+        •	calcule o percentual, em massa, do grupo
+        <simbolos>2</simbolos>
+        OH no composto orgânico,
+      </secao_exercicio_bullet>
+      <secao_exercicio_bullet>•	identifique o tipo de orbital híbrido utilizado pelo carbono constituinte do grupo funcional da classe dos álcoois, justificando sua resposta.</secao_exercicio_bullet>
+      <p class="exercicio-text ml">
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        <b>UFJF/Pism-MG 2017 (Adapt.)</b>
+        O leite é uma das melhores fontes de cálcio disponíveis (200 mg de íons Ca
+        <sub>2+</sub>
+         para cada 200 mL de leite). Por isso, este alimento é essencial para a saúde dos ossos e dentes e seu consumo pode prevenir a osteoporose, eventualmente.
+      </p>
+      <item_lista>
+        <b>a)	</b>
+        Qual a concentração de íons cálcio em mol
+        <simbolos>•</simbolos>
+        L2
+        <sub>1</sub>
+        presente no leite?
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        O leite também é uma importante fonte de vitaminas, dentre elas a vitamina A. Qual a hibridação dos átomos de carbono 1, 2, 3 e 4 na estrutura da vitamina A?
+      </item_lista>
+      <imagem>&lt;ID058-Q008-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+    </secao_03>
+    <secao_04>
+      <secao_04_titulo1>Superação</secao_04_titulo1>
+      <p class="exercicio-text ml">
+        <b>PUC-Rio 2017</b>
+        O ácido sórbico é um ácido orgânico, cuja fórmula molecular é C
+        <sub>6</sub>
+        H
+        <sub>8</sub>
+        O
+        <sub>2</sub>
+        . Ele é uma substância utilizada como conservante de alimentos. Recentemente, em uma operação deflagrada pela Polícia Federal, foi constatado que, em algumas amostras de carne bovina, este ácido estava presente em quantidade superior à permitida pela Agência Nacional de Vigilância Sanitária (ANVISA).
+      </p>
+      <secao_exercicio></secao_exercicio>
+      <imagem>&lt;ID060-Q010-2020-EM-QUI-2SERIE-L1-C2.png&gt;</imagem>
+      <secao_exercicio>Sobre o ácido sórbico e sua utilização como conservante alimentar, responda o que se pede:</secao_exercicio>
+      <item_lista>Indique na estrutura química do ácido sórbico a hibridização de cada átomo de carbono.</item_lista>
+      <item_lista>
+        Na lista da ANVISA, a quantidade máxima de ácido sórbico permitida como conservante em carne bovina é de 0,02 g por 100 g de carne. Se uma análise, em uma amostra de 100 g de carne, indicar a presença de 40% de ácido sórbico acima da quantidade máxima permitida, qual é a quantidade de matéria, em mol, de ácido sórbico presente nessa amostra?
+        <b>Expresse o resultado sob notação científica.</b>
+      </item_lista>
+    </secao_04>
+  </p>
+</Marca1>

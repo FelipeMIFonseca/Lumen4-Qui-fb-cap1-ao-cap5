@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+ <p class="general-text">
+    <titulo_cap_texto>Compostos orgânicos </titulo_cap_texto>
+    <imagem>
+      <imagem>&lt;ID003-I001-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+    </imagem>
+    <legenda>
+      Lixo reciclável × lixo orgânico.
+      <exercicios_linhas></exercicios_linhas>
+    </legenda>
+   <p class="general-text">O mundo moderno e o desenvolvimento de novas tecnologias nos proporcionaram mais conforto, trazendo inúmeros benefícios, como o aumento da nossa expectativa de vida. No entanto, todo esse avanço veio acompanhado de um grande problema: o aumento do consumo implicou a geração de uma grande quantidade de lixo. Diante disso, a coleta seletiva passou a ter grande relevância na preservação do planeta e dos recursos naturais. Hoje, separar o lixo para a reciclagem tem importância vital na preservação do meio ambiente. </p>
+   <p class="general-text">
+      No contexto científico, plásticos e papéis são materiais orgânicos. No entanto, na coleta seletiva, convencionou-se como lixo orgânico (também chamado de lixo úmido) resíduos de origem animal e vegetal, como restos de comida, e materiais não recicláveis, como papel higiênico. Já o lixo reciclável (conhecido também como lixo seco) é aquele composto de plástico, papel, vidro e metal.
+      <exercicios_linhas></exercicios_linhas>
+    </p>
+    <texto_bullets>&#8226;	Você jogaria uma garrafa de plástico em um lixo orgânico ou reciclável? Com base em que ponto de vista? </texto_bullets>
+    <texto_bullets>
+      &#8226;	Qual a relação do elemento químico carbono com a Química Orgânica?
+      <exercicios_linhas></exercicios_linhas>
+    </texto_bullets>
+    <boxe_02_texto>
+      Neste capítulo serão abordadas as habilidades EM13CNT104, EM13CNT201 e EM13CNT310.
+      <exercicios_linhas></exercicios_linhas>
+    </boxe_02_texto>
+    <titulo1>	Histórico da Química Orgânica e os materiais orgânicos </titulo1>
+   <p class="general-text">
+      <b>Compostos orgânicos</b>
+      são conhecidos desde a Antiguidade, período que abrange da invenção da escrita (de 4000 a.C. a 3500 a.C.) até a queda do Império Romano do Ocidente (476 d.C.) e o início da Idade Média (século V). Porém, a expressão &#8220;
+      <b>substância orgânica</b>
+      &#8221; foi usada pela primeira vez no século XVIII, pelo químico sueco Torbern Olof Bergman (1735-1784), um dos pioneiros a se aventurar na organização das substâncias orgânicas conhecidas até o momento.
+    </p>
+   <p class="general-text">Segundo Bergman, as substâncias poderiam ser classificadas em: </p>
+    <texto_bullets>
+      <b>&#8226;	orgânicas:</b>
+      aquelas extraídas de organismos vivos;
+    </texto_bullets>
+    <texto_bullets>
+      <b>&#8226;	inorgânicas:</b>
+      aquelas pertencentes ao reino mineral.
+    </texto_bullets>
+    <secao_exercicio></secao_exercicio>
+   <p class="general-text">
+      Apesar da classificação realizada por Bergman, os químicos, por muito tempo, não conseguiram entrar em consenso sobre a origem orgânica ou inorgânica das substâncias, uma vez que não tinham êxito em reproduzir, em laboratório, os compostos presentes nos seres vivos. Por exemplo, eles conheciam a composição química do açúcar (carbono, hidrogênio e oxigênio), porém não sabiam como juntar os elementos químicos para que eles reagissem e sintetizassem (moléculas seriam &#8220;fabricadas&#8221; pelo processo de síntese, partindo de moléculas mais simples para produzir moléculas mais complexas). Acreditavam que a produção
+      <b>in vitro </b>
+      desses compostos estava além da capacidade humana, considerando a existência de uma força vital.
+    </p>
+   <p class="general-text">
+      O químico sueco Jöns Jacob Berzelius (1779-1848) acreditava na
+      <b>teoria da força vital</b>
+      (ou
+      <b>vitalismo</b>
+      ). Ele defendia a ideia de que os organismos vivos possuíam uma força vital que não podia ser analisada, muito menos sintetizada pelos cientistas, justificando, assim, a incapacidade de explicar os processos biológicos pelas leis regentes da Química ou, ainda, da Física. Com essa teoria, proposta por ele em 1807, um composto orgânico só poderia ser sintetizado por um organismo vivo. O estabelecimento dessa teoria acabou gerando uma barreira para as pesquisas realizadas nessa área, uma vez que os cientistas não teriam a &#8220;força vital&#8221; para sintetizar substâncias em laboratório.
+    </p>
+   <p class="general-text">
+      Um aluno de Berzelius merece destaque nesse processo, pois foi ele quem ajudou a iniciar o processo de superação dessa barreira científica: trata-se do químico alemão Friedrich Wöhler (1800-1882). Ele realizou, em 1828, um experimento em laboratório no qual reagiu cianato de chumbo com hidróxido de amônio, obtendo cianato de amônio, material que não continha as características dos cianatos. Em seguida, aqueceu o cianato de amônio, criando cristais de
+      <b>ureia</b>
+      , uma substância orgânica que é o produto final do metabolismo de proteínas na maioria dos animais vertebrados, eliminada na urina. Estava feita a primeira
+      <b>síntese de um composto orgânico</b>
+      em laboratório; Wöhler havia sintetizado a ureia.
+    </p>
+   <p class="general-text">
+      Observe, no esquema a seguir, que as duas substâncias apresentam a mesma fórmula molecular (CH
+      <sup>4</sup>
+      N
+      <sup>2</sup>
+      O). No entanto, devido a um rearranjo dos átomos no processo de síntese, notamos que o composto iônico (inorgânico) cianato de amônio foi transformado no composto molecular (orgânico) ureia.
+    </p>
+    <imagem>
+      <imagem>&lt;ID004-I002A-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+    </imagem>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>
+        <boxe_02_texto>
+          Todo composto orgânico contém, obrigatoriamente, átomos de carbono. No entanto,
+          <b>nem todo composto que contém carbono é orgânico</b>
+          . Por exemplo, o dióxido de carbono (CO
+          <sup>2</sup>
+          ), o carbonato de sódio (Na
+          <sup>2</sup>
+          CO
+          <sup>3</sup>
+          ) e o ácido carbônico (H
+          <sup>2</sup>
+          CO
+          <sup>3</sup>
+          ) têm carbono e são considerados compostos inorgânicos; são, respectivamente, um óxido, um sal e um ácido inorgânico. Para diferenciar corretamente um composto orgânico de um inorgânico, devemos analisar suas propriedades físicas (como temperatura de fusão e ebulição) e químicas (como tipo de ligação e inflamabilidade).
+        </boxe_02_texto>
+      </boxe_17_texto>
+    </boxe_17>
+   <p class="general-text">
+      O químico alemão Hermann Kolbe (1818-1884) também contribuiu para o abandono da teoria da força vital. Em 1845, utilizando compostos inorgânicos, ele realizou a síntese total de um composto orgânico: o
+      <b>ácido acético</b>
+      (C
+      <sup>2</sup>
+      H
+      <sup>4</sup>
+      O
+      <sup>2</sup>
+      ), presente no vinagre.
+    </p>
+   <p class="general-text">Atualmente, qualquer substância orgânica pode ser obtida sinteticamente, o que levou ao crescimento do número de compostos orgânicos conhecidos. Veja na tabela a seguir. </p>
+    <legenda>
+      <b>
+        <Story>
+          <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="10" aid:tcols="2">
+            <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="2" aid:ccolwidth="313.66163510123835">
+              <Tabela_gravata1>Número de compostos orgânicos conhecidos, por ano</Tabela_gravata1>
+            </TABELA_GRAVATA1>
+            <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">Ano</TABELA_GRAVATA1>
+            <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">Número de compostos orgânicos</TABELA_GRAVATA1>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>1820</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>120</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>1865</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>3 500</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>1910</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>15 000</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>1935</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>350 000</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>1965</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>1 300 000</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>2000</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>7 000 000</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>2003</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>8 700 000</tabela_texto_geral>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="134.97385491066507">
+              <tabela_gravata3>2006</tabela_gravata3>
+            </tabela_texto_geral>
+            <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="178.68778019057328">
+              <tabela_texto_geral>9 700 000</tabela_texto_geral>
+            </tabela_texto_geral>
+          </Table>
+        </Story>
+      </b>
+    </legenda>
+    <fonte>
+      MAAR, J.
+      <i>História da Química &#8211; segunda parte: de Lavoisier ao sistema periódico.</i>
+      Florianópolis: Papa-Livro, 2011. p. 399.
+    </fonte>
+   <p class="general-text">
+      Podemos observar, pela análise da tabela, que o número de compostos orgânicos sintetizados ou obtidos na natureza cresceu significativamente após o experimento realizado por Wöhler, que abriu caminho para que outros cientistas também fizessem experimentos para produção de compostos orgânicos a partir de compostos inorgânicos. Nesse tipo de síntese, vale lembrar que o custo do processo é um fator que deve ser levado em consideração na hora de escolher entre produzir a substância em laboratório e obtê-la diretamente da natureza. Ao pensar em custos, devemos principalmente analisar os custos ambientais envolvidos na extração de um composto, pois, com determinadas ações, podemos causar desequilíbrio na cadeia alimentar, levando à extinção de espécies, o que traz um prejuízo muito maior. Por exemplo, desde 1630, no Peru, padres espanhóis utilizavam a quinina no combate à malária. Ela era obtida da casca de uma árvore sul-americana do gênero
+      <i>Cinchona</i>
+      , natural dos Andes, encontrada em altitudes que variam entre 1 000 m e 3 000 m.A quinina foi sintetizada em laboratório em 2001, mas continua sendo obtida das árvores.
+    </p>
+    <boxe_08>
+      <boxe_08_titulo1>Em Biologia, vemos que... </boxe_08_titulo1>
+      <boxe_08_texto>
+        ... a malária é uma doença parasitária provocada por protozoários unicelulares pertencentes ao gênero
+        <i>Plasmodium</i>
+        sp. A doença apresenta dois hospedeiros: os humanos e a fêmea do mosquito
+        <i>Anopheles</i>
+        sp. (popularmente conhecido como mosquito-prego), sendo o ser humano o hospedeiro intermediário e o mosquito o definitivo.
+      </boxe_08_texto>
+    </boxe_08>
+    <imagem>
+      <imagem>&lt;ID006-F004-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+    </imagem>
+    <legenda>
+      Fórmula estrutural da quinina, composto orgânico utilizado no tratamento da malária, extraída da árvore do gênero
+      <i>Cinchona</i>
+      .
+    </legenda>
+    <p class="img-credit">mashuk/iStockphoto.com </p>
+   <p class="general-text">
+      Com o crescimento do número de compostos orgânicos conhecidos, a definição do termo &#8220;orgânico&#8221; (extraído de &#8220;organismo vivo&#8221;) tornou-se inadequada. Antoine Lavoisier (1743-1794) foi um dos primeiros a descobrir que compostos vegetais e animais continham o elemento químico
+      <b>carbono</b>
+      . Para ele, todo composto orgânico também continha hidrogênio e oxigênio, podendo, ainda, conter nitrogênio e fósforo. A definição atual difere um pouco daquela proposta por Lavoisier. O químico alemão Friedrich August Kekulé von Stradonitz (1829-1896) propõe a definição:
+    </p>
+    <texto_dialogo>
+     <p class="general-text">Química Orgânica é o ramo da Química que estuda os compostos de carbono.</p>
+    </texto_dialogo>
+   <p class="general-text">
+      Uma vez que você já conhece o termo &#8220;composto orgânico&#8221; no contexto científico, voltemos ao sentido de &#8220;orgânico&#8221; nos alimentos, tema de abertura da unidade. No supermercado, encontramos, por exemplo, tomates &#8220;convencionais&#8221; e tomates &#8220;orgânicos&#8221;. Sob o olhar da Química, todo tomate é orgânico, uma vez que é formado por substâncias orgânicas, como o licopeno (de fórmula molecular C
+      <sup>40</sup>
+      H
+      <sup>56</sup>
+      ), que apresenta cor vermelha. No entanto, um tomate &#8220;orgânico&#8221; do ponto de vista da agricultura seria aquele que foi cultivado sem agrotóxicos. Podemos concluir, desse modo, que não há certo ou errado aqui, apenas interpretações diferentes de acordo com o contexto.
+      <exercicios_linhas></exercicios_linhas>
+    </p>
+    <imagem>
+      <imagem>&lt;ID008-F006-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+    </imagem>
+    <legenda>
+      Tomates &#8220;convencionais&#8221; e tomates &#8220;orgânicos&#8221; disponíveis em um supermercado.
+      <exercicios_linhas></exercicios_linhas>
+    </legenda>
+    <p class="img-credit">
+      Tyler Olson/Shutterstock.com
+      <exercicios_linhas></exercicios_linhas>
+    </p>
+    <boxe_02>
+      <boxe_02_titulo1>MAIS</boxe_02_titulo1>
+      <boxe_02_titulo2>Empreendedor transforma lixo orgânico em adubo, Sincovat. </boxe_02_titulo2>
+      <boxe_02_texto>Cada brasileiro gera, em média, 1 kg de lixo por dia. Esse vídeo mostra um empreendedor da cidade de Taubaté, em São Paulo, que resolveu criar um negócio a partir do reaproveitamento desse tipo de material, criando o &#8220;Biociclo&#8221;. </boxe_02_texto>
+      <boxe_02_texto>Disponível em: &lt;http://p.p4ed.com/JJBJH&gt;. Acesso em: 2 ago. 2021.</boxe_02_texto>
+    </boxe_02>
+    <secao_01>
+      <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+      <exercicio_enunciado>
+        1
+        <b>Unicamp-SP</b>
+        A ureia (CH
+        <sup>4</sup>
+        N
+        <sup>2</sup>
+        O) é o produto mais importante de excreção do nitrogênio pelo organismo humano. Na molécula da ureia, formada por oito átomos, o carbono apresenta duas ligações simples e uma dupla, o oxigênio uma ligação dupla, cada átomo de nitrogênio três ligações simples e cada átomo de hidrogênio uma ligação simples. Átomos iguais não se ligam entre si. Baseando-se nestas informações, escreva a fórmula estrutural da ureia, representando ligações simples por um traço (
+        <simbolos>E</simbolos>
+        ) e ligações duplas por dois traços (
+        <simbolos>Ê</simbolos>
+        ).
+      </exercicio_enunciado>
+      <titulo3>
+        <b>Resolução: </b>
+      </titulo3>
+      <exercicio_resolvido>Com base nas informações do enunciado, a fórmula estrutural da ureia é:  </exercicio_resolvido>
+      <imagem>
+        <imagem>&lt;ID009-I003-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+        <exercicio_resolvido href="file:///D:/Trabalhos/TEC/00_Poliedro/Quimica/V4/Todos%20os%20arquivos%202021-10-27%20em%2007_57_56/ID009-I003-2020-EM-QUI-2SERIE-L1-C1.ai"></exercicio_resolvido>
+      </imagem>
+    </secao_01>
+    <boxe_03>
+      <boxe_03_titulo1>Discussão em sala </boxe_03_titulo1>
+      <boxe_03_titulo1>Lixões </boxe_03_titulo1>
+      <boxe_03_texto>Na abertura deste capítulo, abordamos o tema &#8220;lixo&#8221; para explorarmos o termo &#8220;orgânico&#8221; relacionado a ele. </boxe_03_texto>
+      <boxe_03_texto>
+        No município de Duque de Caxias, no Rio de Janeiro, um bairro abrigou, por 35 anos, um dos maiores lixões da América Latina: o Jardim Gramacho, com 1,3 milhão de metros quadrados, localizado a apenas 30 km da praia de Ipanema. Desde 1978, o local sempre foi fonte de renda para a população da região, que vive em situação precária. Segundo pesquisa da ONG TETO, a renda média
+        <i>per capita</i>
+        dos moradores do Jardim Gramacho é de R$ 331,96, cerca de R$ 11 por dia. Não há saneamento básico nem água encanada, e a eletricidade depende de &#8220;gatos&#8221; (instalações clandestinas de energia elétrica).
+      </boxe_03_texto>
+      <boxe_03_texto>A partir de 1996, seguindo exigências da Fundação Estadual de Engenharia do Meio Ambiente (FEEMA), o lixão virou um aterro controlado, em que resíduos não ficam a céu aberto, causando menos impacto ao meio ambiente. Existem barreiras de proteção que impedem que o chorume se expanda e polua o lençol freático. As barreiras químicas são um sistema terciário que combina os efeitos da fitorremediação (como Wetland, termo utilizado para caracterizar vários ecossistemas naturais que ficam parcial ou totalmente inundados durante o ano, como várzeas de rios, banhados, pântanos, manguezais) com os das barreiras reativas de contenção de contaminantes com o solo. Os contaminantes são absorvidos pelas raízes, os quais nelas são armazenados ou transportados e acumulados nas partes aéreas das plantas; por outro lado, a barreira de solo reativa, ao entrar em contato com o efluente, retém contaminantes como cádmio, níquel, chumbo, cobre e zinco. </boxe_03_texto>
+      <boxe_03_texto>
+        O lixão ganhou destaque após o documentário
+        <i>Lixo extraordinário</i>
+        , do artista plástico Vik Muniz, que mostrou a realidade dos catadores de lixo da região. O filme ganhou diversos prêmios pelo mundo e foi indicado à categoria de Melhor Documentário do Oscar de 2011.
+      </boxe_03_texto>
+      <boxe_03_texto>Disponível em: &lt;http://p.p4ed.com/JJBJJ&gt;. Acesso em: 2 ago. 2021. </boxe_03_texto>
+      <boxe_03_texto>Assista ao documentário e discuta em sala sobre as consequências de se ter um lixão próximo de uma comunidade e de recursos hídricos. O que é o chorume? Qual tratamento é realizado para o chorume infiltrado no solo?</boxe_03_texto>
+    </boxe_03>
+    <boxe_15>
+      <secao_15_titulo1>Aplicando conhecimentos </secao_15_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        Quais são os principais elementos químicos encontrados nos compostos orgânicos?
+        <b></b>
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        Segundo Bergman, as substâncias poderiam ser classificadas em orgânicas e inorgânicas. Qual a diferença entre elas?
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        O que foi a teoria da força vital?
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        Wöhler contribuiu para a descrença na teoria da força vital. Como ele conseguiu isso?
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        Qual o contexto de uso do termo &#8220;orgânico&#8221; na agricultura?
+        <secao_exercicio_numerador>6	</secao_exercicio_numerador>
+        Qual das alternativas a seguir apresenta apenas compostos orgânicos?
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        CO
+        <sup>2</sup>
+        , GeO
+        <sup>2</sup>
+        e SiO
+        <sup>2</sup>
+        .
+      </item_lista>
+      <secao_exercicio_item>
+        <b>b)	</b>
+        CH
+        <sup>4</sup>
+        , C
+        <sup>3</sup>
+        H
+        <sup>8</sup>
+        e C
+        <sup>2</sup>
+        H
+        <sup>4</sup>
+        O
+        <sup>2</sup>
+        .
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>c)	</b>
+        Na
+        <sup>2</sup>
+        CO
+        <sup>3</sup>
+        , CO e H
+        <sup>2</sup>
+        CO
+        <sup>3</sup>
+        .
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>d)	</b>
+        CH
+        <sup>4</sup>
+        , SiH
+        <sup>4</sup>
+        e GeH
+        <sup>4</sup>
+        .
+      </secao_exercicio_item>
+      <secao_exercicio_item>
+        <b>e)	</b>
+        C
+        <sup>2</sup>
+        H
+        <sup>6</sup>
+        O, CH
+        <sup>2</sup>
+        O e CO
+        <sup>2</sup>
+        .
+      </secao_exercicio_item>
+    </boxe_15>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        A Química Orgânica, inicialmente, foi definida como a parte da Química que estudava os compostos:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        do Reino Vegetal.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        moleculares.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        extraídos do Reino Animal.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        iônicos.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        extraídos dos seres vivos.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        A Química Orgânica, atualmente, é definida como a parte da Química que estuda compostos:
+      </exercicio_enunciado>
+      <b></b>
+      <item_lista>
+        <b>a)	</b>
+        extraídos dos seres vivos.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        extraídos do Reino Animal.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        iônicos.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        do elemento químico carbono.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        do Reino Vegetal.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+        &#8220;Compostos orgânicos não podem ser formados somente sob a influência de forças físicas e químicas comuns, mas necessitam da intervenção de uma força vital particular.&#8221; Esse fragmento de &#8220;lei&#8221; refere-se à &#8220;teoria da força vital&#8221;, proposta por:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        Wöhler.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Berzelius.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Bergman.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Wurtz.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        Kolbe.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+        <b>Etec-SP</b>
+        Cada brasileiro gera diariamente, em média, 500 gramas de lixo. Esse número chega a 1 kg, dependendo do poder aquisitivo e do local onde se vive. Só em São Paulo são produzidas 12 mil toneladas diárias de lixo. Além do volume, o lixo causa poluição e problemas sanitários urbanos.
+      </exercicio_enunciado>
+      <secao_exercicio>Dentre as recomendações e ações apontadas para diminuir o problema do lixo estão as seguintes: separar e coletar o lixo reciclável, reciclar o lixo, reduzir o descarte de materiais, destinar o lixo &#8220;orgânico&#8221; para compostagem, destinar o lixo para o aterro sanitário. </secao_exercicio>
+      <secao_exercicio>Ainda sobre o lixo, pode-se afirmar que:  </secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        lixo reciclável é todo material sólido que vai para a lata de lixo.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        lixo reciclável é todo tipo de material descartável, desde que esteja separado.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        compostagem é o processo pelo qual o lixo orgânico é transformado em adubo.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        aterro sanitário é onde é depositado e compactado todo tipo de plástico descartado.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        reduzir o descarte de materiais significa não produzir e consumir produtos industrializados.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+        <b>Unicamp-SP</b>
+        A matriz energética brasileira tem se diversificado bastante nos últimos anos, em razão do aumento da demanda de energia, da grande extensão do território brasileiro e das exigências ambientais. Considerando-se as diferentes fontes para obtenção de energia, pode-se afirmar que é vantajoso utilizar
+      </exercicio_enunciado>
+      <item_lista>
+        <secao_exercicio_item>
+          <b>a)	</b>
+          resíduos orgânicos, pois o processo aproveita matéria disponível e sem destino apropriado.
+        </secao_exercicio_item>
+        <secao_exercicio_item>
+          <b>b)	</b>
+          carvão mineral, pois é um recurso natural e renovável.
+        </secao_exercicio_item>
+        <secao_exercicio_item>
+          <b>c)	</b>
+          energia hidrelétrica, pois é uma energia limpa e sua geração não causa dano ambiental.
+        </secao_exercicio_item>
+        <b>d)	</b>
+        energia nuclear, pois ela usa uma fonte renovável e não gera resíduo químico.
+      </item_lista>
+      <secao_exercicio_item></secao_exercicio_item>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>6	</secao_exercicio_numerador>
+        <b>Acafe-SC</b>
+        Na reação:
+      </exercicio_enunciado>
+      <imagem>
+        <imagem>&lt;ID004-I002-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+      </imagem>
+      <secao_exercicio>o produto foi preparado em laboratório, pela primeira vez, por:  </secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        Bunsen.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Arrhenius.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        Le Bel e Van&#8217;t Hoff.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        Wöhler.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>7	</secao_exercicio_numerador>
+        <b>UFRGS A</b>
+        síntese da ureia, a partir de cianato de amônio, segundo a equação
+      </exercicio_enunciado>
+      <imagem>
+        <imagem>&lt;EQ05a.png&gt;</imagem>
+      </imagem>
+      <secao_exercicio>desenvolvida por Wöhler, em 1828, foi um marco na história da Química porque:  </secao_exercicio>
+      <item_lista>
+        <b>a)	</b>
+        provou a possibilidade de se sintetizarem compostos orgânicos a partir de inorgânicos.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        foi a primeira síntese realizada em laboratório.
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        demonstrou que os compostos iônicos geram substâncias moleculares quando aquecidos.
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+        se trata do primeiro caso de equilíbrio químico homogêneo descoberto.
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+        provou que o sal de amônio possui estrutura interna covalente.
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>8	</secao_exercicio_numerador>
+        <b>Mackenzie-SP </b>
+        A ureia, que constitui de 2 a 5 por cento da urina humana, é um dos compostos obtidos no processamento das proteínas. Em solução aquosa, a ureia decompõe-se, originando gás carbônico e amônia. Dentre as fórmulas a seguir, aquela que representa a ureia é:
+      </exercicio_enunciado>
+      <item_lista>
+        <b>a)	</b>
+        <imagem>
+          <imagem>&lt;ID013-I005-2020-EM-QUI-2SERIE-L1-C1_a.png&gt;</imagem>
+        </imagem>
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        <imagem>
+          <imagem>&lt;ID013-I005-2020-EM-QUI-2SERIE-L1-C1_b.png&gt;</imagem>
+        </imagem>
+      </item_lista>
+      <item_lista>
+        <b>c)	</b>
+        <imagem>
+          <imagem>&lt;ID013-I005-2020-EM-QUI-2SERIE-L1-C1_c.png&gt;</imagem>
+        </imagem>
+      </item_lista>
+      <item_lista>
+        <b>d)	</b>
+      </item_lista>
+      <item_lista>
+        <b>e)	</b>
+      </item_lista>
+    </secao_03>
+    <secao_04>
+      <secao_04_titulo1>Superação </secao_04_titulo1>
+      <exercicio_enunciado>
+        <b>Fuvest-SP</b>
+        Pesquisadores da Universidade de São Paulo mostraram que as bromélias, que vivem no alto de árvores e acumulam água entre suas folhas, obtêm nitrogênio da ureia presente nessa água e que é proveniente da urina dos anfíbios que aí habitam. Nessas plantas, a ureia sofre uma reação catalisada pela enzima urease, que origina amônia e gás carbônico. Em outra reação, catalisada pela enzima sintetase de glutamina, a amônia formada é utilizada na produção do aminoácido glutamina.
+      </exercicio_enunciado>
+      <secao_exercicio></secao_exercicio>
+      <imagem>
+        <imagem>&lt;ID014-I006-2020-EM-QUI-2SERIE-L1-C1.png&gt;</imagem>
+      </imagem>
+      <item_lista>
+        <b>a)	</b>
+        Escreva a equação química balanceada que representa a reação, citada no texto, em que são produzidos amônia e gás carbônico.
+      </item_lista>
+      <item_lista>
+        <b>b)	</b>
+        Em que processos, associados ao crescimento das plantas, as bromélias podem utilizar o gás carbônico e a glutamina?
+      </item_lista>
+    </secao_04>
+  </p>
+</Root>
